@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>
+			Kilobyte
+		</title>
+		<link>
+			https://keegsands.org/kilobyte
+		</link>
+		<pubdate>
+			Wed, 27 Apr 2016 21:30:00 GMT
+		</pubdate>
+		<lastbuilddate>
+			Sat, 22 Apr 2017 12:00:00 EST
+		</lastbuilddate>
+		<description>
+			A microcast about my thoughts on technology, workflow and the world.
+		</description>
+		<language>
+			en-US
+		</language>
+		<atom:link href="http://keegsands.org/kilobyte/feed.xml" rel="self" type="application/rss+xml" /> 
+		<itunes:author>
+			Keegan Sands
+		</itunes:author>
+		<itunes:keywords>
+			keegan
+		</itunes:keywords>
+		<itunes:explicit>
+			clean
+		</itunes:explicit>
+		<itunes:image href="http://keegsands.org/kilobyte/artwork.png" /> 
+		<itunes:owner>
+			<itunes:name>
+				Keegan Sands
+			</itunes:name>
+			<itunes:email>
+				keegsands@gmail.com
+			</itunes:email>
+		</itunes:owner>
+		<itunes:block>
+			no
+		</itunes:block>
+		<itunes:category text="Society &amp; Culture" /> <itunes:category text="Technology" /> 
+		<item>
+			<title>
+				1: Well Dressed Wookie
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+      	<p>The debut episode of the new Kilobyte podcast is here. </p>
+        <ul>
+        	<li><a href="http://twitter.com/keegsands">keegsands on Twitter</a></li>
+        	<li><a href="https://en.wikipedia.org/wiki/Star_Wars_Day">Star Wars Day</a></li>
+        <li>The <a href="http://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-Dynamic-Microphone/dp/B004QJOZS4">Audio Technica ATR-2100</a></li>
+        <li>Special, thanks to my good friend <a href="http://twitter.com/alexredsox">@alexredsox</a> for helping me test out this podcast. </li>
+        </ul>
+        <p>Thanks for listening</p>
+		]]>
+			</description>
+			<pubdate>
+				Sat, 7 May 2016 19:30:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-001.mp3" length="8932405" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/1
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/1
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				The debut episode of the Kilobyte podcast. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				In this episode I talk about Star Wars day, job interviews and the struggles of starting a podcast. 
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				06:45
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				2: Eddard's Dead Friends
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+      	<p>The highly anticipated second episode of Kilobyte </p>
+        <ul>
+        	<li><a href="http://www.mkyong.com/hibernate/different-between-session-get-and-session-load/">Hibernate Get vs. Load</a></li>
+        	<li><a href="http://stackoverflow.com/questions/9618583/java-final-abstract-class">Java abstract and final</a></li>
+        <li><a href="https://g.co/kgs/sqnLS">Mission to Mars by Franklyn M. Branley</a></li>
+        <li><a href="http://gameofthrones.wikia.com/wiki/Eddard_Stark">Eddard Stark on Game of Thrones Wiki</a></li>
+        </ul>
+        <p>Thanks for listening</p>
+		]]>
+			</description>
+			<pubdate>
+				Fri, 13 May 2016 21:11:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-002.mp3" length="10254120" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/2
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/2
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				The highly anticipated second episode of Kilobyte. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Start with a brief update on the podcast and my first follow up. My thoughts on Mars, kid pitch baseball and playing catch. 
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				07:44
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				3: Fear of Seagulls
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+      	<p>I tried to keep it a little shorter this time for a quicker turnaround.  No follow up this episode. You get to hear my big complaint about ice cream stands and then the first of my online dating stories from the early 2000's</p>
+        <ul>
+        	<li><a href="http://www.hodgies.com/">My favorite local ice cream shop, Hodgies</a></li>
+        	<li><a href="http://www.amazon.com/Paderno-World-Cuisine-Stainless-Steel-Coiled/dp/B003OBXWKW">Coiled Ice Cream Cone Holder</a></li>
+        <li><a href="http://boston.com">Boston.com</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Ornithophobia">Ornithophobia: The Fear of Birds</a></li>
+        </ul>
+        <p>Have a great day!</p>
+		]]>
+			</description>
+			<pubdate>
+				Thu, 19 May 2016 21:11:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-003.mp3" length="7613825" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/3
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/3
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Ice cream in New England and my first online dating story. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				In the third episode of Kilobyte, I complain a little about ice cream stands and then talk about my first online date from over a decade ago.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				07:44
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				4: Pink Eye Bluetooth
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>The fourth episode of Kilobyte where I discuss my fear of certain ailments and my recent experiences with Bluetooth devices. </p>
+
+<ul>
+<li><a href="https://mobile.twitter.com/stellina429/status/734135035754872832">Stellina429 follow-up tweet</a></li>
+<li><a href="http://newcitymicrocreamery.com/">Microcreamery in Hudson, MA</a></li>
+<li><a href="http://www.jabra.com/music/jabra-move-wireless">Jabra Move Wireless On Ear Headphones</a></li>
+<li><a href="http://www.amazon.com/iClever-Bluetooth-Hands-Free-Multi-Point-Activation/dp/B00GJFGE0K?ie=UTF8&amp;psc=1&amp;redirect=true&amp;ref_=oh_aui_detailpage_o04_s00">iClever Bluetooth Hands Free</a></li>
+<li><a href="https://www.amazon.com/gp/product/B00V7ZZSGS/ref=oh_aui_detailpage_o04_s00?ie=UTF8&amp;psc=1">Aukey Bluetooth Ear Buds</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Conjunctivitis">Wikipedia: Conjunctivitis</a></li>
+</ul>
+
+<p>Have a great day!</p>		]]>
+			</description>
+			<pubdate>
+				Thu, 26 May 2016 12:40:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-004.mp3" length="12182563" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/4
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/4
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				My fears of conjunctivitis and poison ivy and my experience with Bluetooth 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				The fourth episode of Kilobyte where I discuss my fear of certain ailments and my recent experiences with Bluetooth devices.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				08:41
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				5: For the Love of Vlog
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+      <p>In this episode of Kilobyte I follow up on my Bluetooth situation, complain about local news and have a confession to make about entertainment. 
+</p>
+
+<ul>
+<li><a href="http://www.jabra.com/music/jabra-move-wireless">Jabra Move Wireless On Ear Headphones</a></li>
+<li><a href="https://mobile.twitter.com/keegsands/status/733012087161643010">My Tweet to Jabra about the headphones</a></li>
+<li><a href="https://mobile.twitter.com/7News">WHDH News on Twitter</a></li>
+<li><a href="https://twitter.com/Jennifer_Eagan/status/735056268751216640">Tweet about state parks</a></li>
+<li><a href="https://YouTube.com/jennamarbles">Jenna Marbles</a></li>
+<li><a href="https://www.youtube.com/user/TheFightingSolo">Julien Solomita</a></li>
+<li><a href="https://www.youtube.com/user/grav3yardgirl">Grav3yardgirl</a></li>
+<li><a href="https://www.youtube.com/user/cgpgrey">CGP Grey</a></li>
+<li><a href="https://www.youtube.com/user/howtobasic">How To Basic</a></li>
+<li><a href="https://www.youtube.com/user/theslowmoguys">Slo Mo Guys</a></li>
+<li><a href="https://www.youtube.com/channel/UCHdt-NRTpRAyZeBEMvumLoQ">Katherine Elizabeth</a></li>
+
+</ul>
+<p>Have a great day!</p>
+]]>
+			</description>
+			<pubdate>
+				Thu, 02 Jun 2016 16:20:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-005.mp3" length="11062925" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/5
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/5
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Follow up on my Bluetooth headphones, news teases and a confession. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				In the latest installment of the podcast I have some follow up on my headphones, an annoyance with the local news and a confession.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				08:08
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				6: Only Two Hit Batters
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+      <p>In this episode of Kilobyte there is an update on the coach pitch baseball situation and my predictions for Apple's WWDC 2016. 
+</p>
+
+<ul>
+<li><a href="https://developer.apple.com/wwdc/">Apple WWDC Page</a></li>
+
+</ul>
+<p>Have a great day!</p>
+]]>
+			</description>
+			<pubdate>
+				Fri, 10 Jun 2016 21:31:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-006.mp3" length="12806183" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/6
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/6
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Coach pitch baseball updates and my Apple WWDC 2016 predictions. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				In this episode of Kilobyte I give an update on my coach pitch baseball team and also delve into the world of technology predictions related to Apple WWDC 2016.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				09:41
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				7: Double Your Pleasure, Double Your Fun
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+      <p>The episode where I talk a lot about Apple's WWDC 2016 and all the platforms. 
+</p>
+
+<ul>
+<li><a href="http://www.apple.com/watchos-preview/">watchOS 3 Preview</a></li>
+<li><a href="http://www.apple.com/tvos-preview/">tvOS 10 Preview</a></li>
+<li><a href="http://www.apple.com/macos/sierra-preview/">macOS Sierra</a></li>
+<li><a href="http://www.apple.com/ios/ios10-preview/">iOS 10 Preview</a></li>
+<li><a href="https://m.youtube.com/watch?v=n5jXg_NNiCA">Apple WWDC 2016 Keynote Video</a></li>
+<li><a href="http://hellointernet.fm">Hello Internet Podcast</a></li>
+<li><a href="https://m.youtube.com/watch?t=1m0s&amp;v=rRmMuVPUsO4">Hello Internet Animated Episode 7: Desktop Icons</a></li>
+<li><a href="https://www.relay.fm/cortex/26">Cortex Episode 26 with talk about multipadlifestyle</a>
+Have a great day!</li>
+</ul>
+<p>Have a great day!</p>
+]]>
+			</description>
+			<pubdate>
+				Sat, 18 Jun 2016 08:34:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-007.mp3" length="24293152" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/7
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/7
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				My first annual review of Apple's WWDC where I talk about all the platforms
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				The Apple WWDC 2016 took place this week and I cover each of the platforms and provide my thoughts on all the changes coming to them this fall.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				18:21
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				8: Out in the Cold
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+      <p>A quick follow up on the WWDC podcast, being cold as an adult and my workflow for non work related tasks.</p>
+
+<ul>
+	<li><a href="http://appleinsider.com/articles/16/06/15/universal-clipboard-for-macos-sierra-ios-10-streamlines-copypaste-between-devices">Universal Clipboard</a></li>
+<li><a href="http://www.hellointernet.fm/podcast/39">Hello Internet Episode 39 (not Cortex)</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Getting_Things_Done">Getting Things Done (wikipedia)</a></li>
+<li><a href="http://www.macrumors.com/2015/05/26/apple-discoveryd-replaced-with-mdnsresponder/">Apple discoveryd issue</a></li>
+</ul>
+<p>Have a great day!</p>
+]]>
+			</description>
+			<pubdate>
+				Thu, 23 Jun 2016 13:09:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-008.mp3" length="11432001" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/8
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/8
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				My new fear of being cold and my workflow for outside of work.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Quick follow up on the WWDC episode from last week, a brief glimpse into a new fear of being cold and finally a step by step walkthrough of my workflow for tasks at home.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				8:33
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				9: Gotta Have It
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+      <p>Lots of follow up from the WWDC episode and an online dating story.</p>
+
+<ul>
+	<li><a href="https://twitter.com/littlenonna">littlenonna on Twitter</a></li>
+	<li><a href="http://appleinsider.com/articles/16/06/21/inside-watchos-3-customize-your-apple-watch-display-on-a-workout-by-workout-basis">Apple Watch Workout App Changes</a></li>
+<li><a href="https://sixcolors.com/post/2016/06/hands-on-with-macos-sierra/">Six Colors macOS Sierra Hands On</a></li>
+<li><a href="https://daringfireball.net/thetalkshow/2016/06/17/ep-158">The Talk Show Episode 158 with Craig Federighi and Phil Schiller</a></li>
+<li><a href="http://www.techinsider.io/apple-ios-10-gets-rid-of-slide-to-unlock-2016-6">iOS 10 Slide To Unlock Details</a></li>
+<li><a href="https://www.wunderlist.com">Wunderlist</a></li>
+<li><a href="http://thewirecutter.com/reviews/best-wi-fi-router/">The Wirecutter Wifi router reviews</a></li>
+</ul>
+<p>Have a great day!</p>
+]]>
+			</description>
+			<pubdate>
+				Mon, 4 Jul 2016 07:41:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-009.mp3" length="13818132" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/9
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/9
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Follow-up from the WWDC episode and an online dating story.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Lots of follow-up from the WWDC episode and an online dating story where I was outdone when eating ice cream.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				10:40
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				10: In Search of Pikachu
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>Talking about iOS 10 Public beta 1 and the latest craze, Pokemon Go! </p>
+
+<ul>
+<li><a href="https://appsto.re/us/3ywmx.i">Go Tasks</a></li>
+<li><a href="https://beta.apple.com/sp/betaprogram/">iOS 10 Public Beta</a></li>
+<li><a href="https://itunes.apple.com/ca/app/presence-free-smart-home-motion/id618598211">Presence Security</a></li>
+<li><a href="https://sixcolors.com/post/2016/07/publicbeta/">SixColors iOS 10 public beta article</a></li>
+<li><a href="http://www.pokemongo.com/en-us/">Pokemon Go site</a></li>
+<li><a href="http://www.imore.com/how-to-start-pokemon-go-with-pikachu">Pokemon Go Pikachu Starter Trick</a></li>
+<li><a href="https://www.instagram.com/p/BHr8U73j522/">Pokemon in the house</a></li>
+</ul>
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Tue, 19 Jul 2016 08:13:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-010.mp3" length="9983082" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/10
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/10
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				The new iOS 10 public beta and the latest craze, Pokemon Go!
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				A little productivity follow up and then my experience with the new iOS 10 public beta. I also give a primer on the new Pokemon Go! Announcing a new listener.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				10:23
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				11: Oh Canada
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>Special episode recorded in Prince Edward Island, Canada. I talk about my difficulties with limited cellular data and wifi. A visit to the top ice cream place in the world. </p>
+
+<ul>
+<li><a href="https://en.m.wikipedia.org/wiki/Saint_John,_New_Brunswick">Saint John, NB (Wikipedia)</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Prince_Edward_Island">Prince Edward Island (Wikipedia)</a></li>
+<li><a href="http://keegsands.org/images/greenwich-cottage.jpeg">Greenwich Cottage</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Reversing_Falls">Reversing Falls (Wikipedia)</a></li>
+<li><a href="https://www.att.com/shop/wireless/international/roaming.html">ATT Passport Plan</a></li>
+<li><a href="http://blog.keegsands.org/2014/07/unlocked-iphone-in-iceland-results.html">Iceland prepaid sim blog</a></li>
+<li><a href="http://keegsands.org/images/perfect-roaming.jpeg">Perfect Roaming</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Anne_of_Green_Gables">Anne of Green Gables (Wikipedia)</a></li>
+<li><a href="http://www.ripleys.com/cavendishbeach/">Ripley&#8217;s Believe it or not Odditorium at Cavendish Beach</a></li>
+<li><a href="http://keegsands.org/images/jen-mirror.jpeg">Jen at Ripley&#8217;s Odditorium</a></li>
+<li><a href="http://www.cows.ca/">Cows Ice cream</a></li>
+<li><a href="http://keegsands.org/images/cows-top10.jpeg">Cows Ice Cream Top 10 pic</a></li>
+<li><a href="http://keegsands.org/kilobyte/3">Kilobyte: 3 Fear of Gulls</a></li>
+<li><a href="https://www.google.com/search?q=canada+countertop+terminal&amp;client=safari&amp;hl=en-us&amp;biw=1024&amp;bih=649&amp;prmd=simvn&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjM0OWC15fOAhWHWSYKHVvbD8MQ_AUIBigC">Canadian POS Terminal Image Search</a></li>
+<li><a href="http://www.linstakeout.com/">Lins Takeout</a></li>
+</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Thu, 28 Jul 2016 23:15:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-011.mp3" length="10462481" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/11
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/11
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Recording from vacation in Canada and talking about cellular data while traveling.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Special episode recorded in Prince Edward Island, Canada. I talk about my difficulties with limited cellular data and wifi. A visit to the top ice cream place in the world.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				10:53
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				12: I am Foxes
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>Kaleb joins me on the podcast as we discuss his first concert experience. </p>
+
+<ul>
+<li><a href="http://www.npr.org/templates/story/story.php?storyId=121310977/">Urinal Bee Story (NPR)</a></li>
+<li><a href="http://abcnews.go.com/blogs/business/2013/07/drive-thru-customers-pay-it-forward-in-store-record/">Heavnly Donuts Pay It Forward (ABC News)</a></li>
+<li><a href="http://www.setlist.fm/setlist/coldplay/2016/gillette-stadium-foxborough-ma-1bff4d10.html/">Coldplay Setlist from Gillette Stadium</a></li>
+</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Thu, 4 Aug 2016 07:15:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-012.mp3" length="9898654 " type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/12
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/12
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Kaleb joins me on the podcast as we discuss his first concert experience. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Kaleb joins me on the podcast as we discuss his first concert experience. 
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				10:19
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				13: Logarithmic Fandom
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>I discuss my theory on being a fan on something and how it may not be a straight line </p>
+
+<ul>
+<li><a href="http://keegsands.org/kilobyte/9">Kilobyte 9: Gotta Have It</a></li>
+<li><a href="http://thewirecutter.com/reviews/best-wi-fi-router/">The Wirecutter Wifi router reviews</a></li>
+<li><a href="https://www.amazon.com/Netgear-AC1750-Smart-Router-Processor/dp/B00Z0V2NQ8">Netgear AC1750 (R6400)</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Logarithmic_scale">Logarithmic Scale (wikipedia)</a></li>
+<li><a href="http://dmbalmanac.com/">DmbAlmanac.com</a></li>
+
+</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Fri, 12 Aug 2016 21:19:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-013.mp3" length="6096119" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/13
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/13
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				A discussion on being a fan of something and how its not simple. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				I discuss my theory on being a fan on something and how it may not be a straight line
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				6:16
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				14: Happy Half Birthday
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>We started a special tradition and I am sharing it with you.</p>
+
+<ul>
+<li><a href="https://twitter.com/stellina429/status/765145179997270017">@stellina429 Tweet</a></li>
+
+</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Sat, 20 Aug 2016 07:16:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-014.mp3" length="2641686" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/14
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/14
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				We started a special tradition and I am sharing it with you.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				We started a special tradition and I am sharing it with you. Learn about half birthdays.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				2:40
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				15: Dear Dev Diary
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>We purchased not one, but two drones and I talk about them.  I also get back to some workflow stuff and talk about my daily workflow at work.</p>
+
+<ul>
+	<li><a href="http://www.symatoys.com/product/show/1901.html">Syma X5C (Kaleb's)</a></li>
+	<li><a href="https://www.dji.com/product/phantom-4">DJI Phantom 4 (My Dad's)</a></li>
+	<li><a href="http://www.hubsan.com/productinfo_17.html">Hubsan X4 501C (Mine)</a></li>
+	<li><a href="https://www.youtube.com/watch?v=8NYMSm3Wfo8">Drone over Merrimack - shot on Syma X5C (http://youtube.com/keegsands)</a></li>
+	<li><a href="https://www.youtube.com/user/MrSteeledavis">Mr. Steele (YouTube)</a></li>
+	<li><a href="https://www.youtube.com/watch?v=WQyVEivFMrA">Mr. Steele's Freestyle Finals World Drone Prix 2016(YouTube)</a></li>
+	<li><a href="http://markdownpad.com">MarkdownPad 2</a></li>
+	<li><a href="https://en.wikipedia.org/wiki/Markdown">Markdown (wikipedia)</a></li>
+	<li><a href="http://keegsands.org/misc/DevDiary.pdf">Sample Dev Diary</a></li>
+
+</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Mon, 29 Aug 2016 08:41:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-015.mp3" length="6883136" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/15
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/15
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				I drone on about drones and then go over my daily workflow at work.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				I drone on about drones and then go over my daily workflow at work.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				7:05
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				16: Uncle David Approved
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>First a shout out to my Uncle David and then a deep dive into my thoughts on the September 7th Apple event.</p>
+
+<ul>
+	<li><a href="http://www.apple.com/apple-events/september-2016/">Apple See you on the 7th Page</a></li>
+</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Tue, 06 Sep 2016 13:07:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-016.mp3" length="10525232" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/16
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/16
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Lots of talk about the big Apple keynote taking place on September 7th.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Lots of talk about the big Apple keynote taking place on September 7th.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				10:53
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				17: Downgraded to Series Zero
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>A quick recap of Apple's September 7th event announcing the Apple Watch Series 2, iPhone 7 and AirPods</p>
+
+<ul>
+			<li><a href="http://www.apple.com/iphone-7/">iPhone 7 Product Page</a></li>
+			<li><a href="http://www.apple.com/watch/">Apple Watch Product Page</a></li>
+			<li><a href="http://www.apple.com/airpods/">AirPods Product Page</a></li>
+			<li><a href="http://www.apple.com/ios/ios-10/">iOS 10 Preview Page</a></li>
+			
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Wed, 07 Sep 2016 23:12:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-017.mp3" length="9870290" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/17
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/17
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				A quick recap of the Apple September 7th event announcing the iPhone 7, Apple Watch Series 2 and AirPods
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				A quick recap of the Apple September 7th event announcing the iPhone 7, Apple Watch Series 2 and AirPods
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				10:12
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				18: Stand in the Place Where You Work
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>Hands on with the iPhone 7 and 7 Plus. A quick update on my drone skills. An overview of my setup at work.</p>
+
+<ul>
+			<li><a href="http://keegsands.org/misc/iphone7plus1x.jpg">iPhone 7 Plus 1x Zoom</a></li>
+			<li><a href="http://keegsands.org/misc/iphone7plus2x.jpg">iPhone 7 Plus 2x Zoom</a></li>
+			<li><a href="http://keegsands.org/misc/iphone7plus10x.jpg">iPhone 7 Plus 10x Zoom</a></li>
+			<li><a href="https://www.amazon.com/gp/product/B005UA2WNI/ref=oh_aui_search_detailpage?ie=UTF8&psc=1">Imprint Cumulus Pro Anti Fatigue Mat (amazon.com)</a></li>
+			<li><a href="http://www.wacom.com/en-us/products/pen-tablets/intuos-photo">Wacom Intuos Photo Tablet</a></li>						<li><a href="http://keegsands.org/misc/officesetup.jpg">My Office Setup</a></li>									
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Tue, 20 Sep 2016 09:24:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-018.mp3" length="7274346" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/18
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/18
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Hands on with the iPhone 7 and 7 Plus. An update on my drone piloting. An overview of my work setup.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Hands on with the iPhone 7 and 7 Plus. An update on my drone piloting. An overview of my work setup.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				7:29
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				19: Year of More
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>Recording from the Angular Summit, business travel and finally I talk about my 'Year of More'</p>
+
+		<ul>
+			<li><a href="http://www.angularsummit.com">Angular Summit</a></li>
+			<li><a href="http://angular.io">Angular 2</a></li>
+			<li><a href="https://www.relay.fm/cortex/20">Cortex 20: New Year</a></li>
+			<li><a href="http://blog.keegsands.org">My Blog</a></li>
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Wed, 28 Sep 2016 07:33:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-019.mp3" length="6846879" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/19
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/19
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Recording from the Angular Summit, business travel and finally I talk about my 'Year of More'
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Recording from the Angular Summit, business travel and finally I talk about my 'Year of More'
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				5:38
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				20: Fireside Chat
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>In honor of the 20th episode a special guest joins me to help celebrate and evaluate. </p>
+
+		<ul>
+			<li><a href="https://www.tripadvisor.com/Attraction_Review-g40550-d2322253-Reviews-Megunticook_Lake-Camden_Maine.html">Megunticook Lake (TripAdvisor)</a></li>
+			<li><a href="http://www.apple.com/airpods/">AirPods (apple.com)</a></li>
+			<li><a href="http://keegsands.org/kilobyte/15">Kilobyte 15: Dear Dev Diary</a></li>
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Mon, 17 Oct 2016 15:39:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-020.mp3" length="9404684" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/20
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/20
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Celebrating the 20th episode of Kilobyte by having a special guest join me. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Celebrating the 20th episode of Kilobyte by having a special guest join me. 
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				9:42
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				21: Flying in Circles
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>I rave about the Black Mirror tv show and then Jennifer is back for the first Road to FPV segment.</p>
+
+		<ul>
+			<li><a href="http://keegsands.org/kilobyte/20">Kilobyte 20: Fireside Chat</a></li>
+			<li><a href="https://en.m.wikipedia.org/wiki/Black_Mirror">Black Mirror (wikipedia)</a></li>
+<li><a href="http://www.hellointernet.fm/podcast/20">Hello Internet 20: Reverse Finger Trap </a></li>
+<li><a href="http://www.apple.com/iphone-se/">Apple iPhone SE</a></li>
+<li><a href="https://m.youtube.com/watch?v=B8LKHVjWma8">Flying at the field</a></li>
+<li><a href="http://www.apple.com/apple-events/october-2016/">Hello Again Event</a></li>
+<li><a href="http://apple.com/airpods">AirPods</a></li>
+	
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Wed, 26 Oct 2016 06:30:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-021.mp3" length="7498790" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/21
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/21
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				I rave a little about Black Mirror and then Jennifer is back for the first ever Road to FPV segment.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				I rave a little about Black Mirror and then Jennifer is back for the first ever Road to FPV segment.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				7:43
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				22: Strike While the Iron is Hot
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>My triumphant return with talk about the Apple event from back in October and some parenting advice</p>
+
+		<ul>
+			<li><a href="http://youtube.com/keegsands">KeegSands YouTube Channel</a></li>
+				<li><a href="http://apple.com/macbook">New MacBook Pro</a></li>
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Wed, 7 Dec 2016 12:01:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-022.mp3" length="12186202" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/22
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/22
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				My triumphant return with talk about the Apple event from back in October and some parenting advice
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				My triumphant return with talk about the Apple event from back in October and some parenting advice.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				12:37
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				23: Long Delay
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>My long awaited review of the new Apple AirPods</p>
+
+		<ul>
+			<li><a href="http://apple.com/airpods">Apple AirPods</a></li>
+				
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Tue, 7 Feb 2017 08:44:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-023.mp3" length="5093018" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/23
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/23
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				My long awaited review of the new Apple AirPods
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				My long awaited review of the new Apple AirPods
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				4:10
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				24: Series 2
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>The long wait is over and the Kilobyte podcast has returned for season 2.  This week I partake in a little follow up and then dive into the main topic the Apple iPhone event</p>
+
+		<ul>
+			<li><a href="http://apple.com/airpods">Apple AirPods</a></li>
+			<li><a href="http://keegsands.org/kilobyte/23">Kilobyte 23: A Long Wait</a></li>
+			<li><a href="https://www.apple.com/iphone-x/">Apple iPhone X</a></li>
+			<li><a href="https://www.apple.com/apple-watch-series-3/">Apple Watch Series 3</a></li>
+				
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Thu, 14 Sep 2017 10:37:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-024.mp3" length="20510890" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/24
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/24
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				The long wait is over and the Kilobyte podcast is back for series 2
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				The long wait is over and the Kilobyte podcast is back for series 2
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				13:45
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				25: Edible Flower
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>Some Apple event follow up including my temporary ownership of an Apple Watch Series 3.  The main event is my inadequate history wity music and a new show segment.  Don't forget to do the homework.</p>
+
+		<ul>
+			<li><a href="https://www.apple.com/iphone-x/">Apple iPhone X</a></li>
+			<li><a href="https://www.apple.com/apple-watch-series-3/">Apple Watch Series 3</a></li>
+			<li><a href="https://mobile.twitter.com/keegsands/status/908342827079389184">Twitter thread with feedback</a></li>
+			<li><a href="https://mobile.twitter.com/AlexRedSox">AlexRedSox on Twitter</a>
+			<li><a href="http://blog.keegsands.org/2017/09/ios-11-for-iphone.html">Blog: iOS 11 on iPhone</a></li>
+			<li><a href="https://m.youtube.com/watch?v=9eN6iBoJJiw">Video: Wedding in New Hampshire</a></li>
+			<li><a href="http://www.dictionary.com/browse/air-guitar">Dictionary.com: Air Guitar</a></li>
+			<li><a href="https://g.co/kgs/UMK7pw">House of Pain: Put On Your $#!+ Kickers</a></li>
+			<li><a href="https://itunes.apple.com/us/album/born-to-run/id310730204">Born To Run on Apple Music</a></li>
+				
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Sun, 8 Oct 2017 22:10:00 EDT
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-025.mp3" length="17365882" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/25
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/25
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				My brief ownership of an Apple Watch Series 3 and my shortcomings regarding music.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				My brief ownership of an Apple Watch Series 3 and my shortcomings regarding music.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				11:00
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				26: Born to Run
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>My first album review of Born to Run by Bruce Springsteen is finally here!</p>
+
+		<ul>
+			<li><a href="https://itunes.apple.com/us/album/born-to-run/id310730204">Born To Run on Apple Music</a></li>
+				
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Tue, 12 Dec 2017 19:46:00 EST
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-026.mp3" length="13845833" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/26
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/26
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				My first in a series of album reviews. In this episode I review Born to Run!
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				My first in a series of album reviews.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				9:34
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				27: Turn the Fire On
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>It's new years resolution time and I am going to try to challenge myself a little.  Sorry it doesn't involve me releasing a new podcast every week.</p>
+
+		<ul>
+			<li><a href="http://keegsands.org/kilobyte/26">Kilobyte 26: Born To Run</a></li>
+			<li><a href="http://keegsands.micro.blog">KeegSands on Micro.blog</a></li> 
+				
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Sun, 14 Jan 2018 16:32:00 EST
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-027.mp3" length="7152272" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/27
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/27
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				The first episode of 2018.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				It is a new year and I am trying a little challenge.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				4:55
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				28: The Keyboard is Fine
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+<p>Back with the first podcast of 2019 and hoping to do more.</p>
+
+		<ul>
+			<li><a href="https://m.youtube.com/watch?v=Do7f9BSRvNA&t=0s&list=PLQl2vuOlBYnkZI53GBPvDLHZeLRrAD5HX&index=3">FPV Cliff Diving the Bay of Fundy</a></li>
+			<li><a href="https://www.apple.com/macbook-pro/">2018 MacBook Pro</a></li> 
+				
+		</ul>
+
+
+<p>Have a great day!</p>]]>
+			</description>
+			<pubdate>
+				Thu, 3 Jan 2019 19:55:00 EST
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-028.mp3" length="7156848" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/28
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/28
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				The first episode of 2019 and a quick recap of my tech.
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				The new year is here and so is this new podcast episode with a quick review of my new MacBook Pro and the state of my drones.
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				7:24
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				29: This is not a Test
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+			<p>-<a href="https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8">Shortcuts by Apple</a></p>
+<ul>
+<li>Into the Spider-Verse
+<ul>
+<li><a href="https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse">Spider-man: Into the Spider-Verse</a></li>
+<li><a href="https://m.youtube.com/watch?v=-euUGPQZoHw">Spider-man: Into the Spider-Verse What's Up Danger</a></li>
+</ul>
+</li>
+</ul>
+<p>Have a great day!</p>
+	
+		]]>
+			</description>
+			<pubdate>
+				Wed, 09 Jan 2019 21:26:42 -0500
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-029.mp3" length="4592705" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/29
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/29
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				The second episode of 2019 where I talk about Shortcuts and Into the Spider-verse. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				The second episode of 2019 where I talk about Shortcuts and Into the Spider-verse. 
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				4:44
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				30: Chinese Plants on the Moon
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+			<ul>
+<li><a href="http://micro.keegsands.org/2019/01/15/who-would-have.html">Micro.blog post about China and the moon</a></li>
+<li>My rant about going to the moon. <a href="http://keegsands.org/kilobyte/2/">Kilobyte 2: Eddard's Dead Friends</a></li>
+<li><a href="https://www.youtube.com/watch?v=koPmuEyP3a0">We Believe: The Best Men Can Be - Gillette Short Film</a></li>
+<li><a href="https://www.nintendo.com/games/detail/new-super-mario-bros-u-deluxe-switch">New Super Mario Bros. U Deluxe for Switch</a></li>
+<li><a href="https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch">Legend of Zelda: Breath of the Wild</a></li>
+</ul>
+<p>Have a great day!</p>
+	
+		]]>
+			</description>
+			<pubdate>
+				Thu, 24 Jan 2019 20:48:58 -0500
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-030.mp3" length="5114883" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/30
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/30
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Random current event stuff about the Chinese moon lander, Gillette Masculinity video and video game corner. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Random current event stuff about the Chinese moon lander, Gillette Masculinity video and video game corner. 
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				5:16
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+		<item>
+			<title>
+				31: Unintentional FaceTime
+			</title>
+<!-- Overcast show notes -->
+			<description>
+<![CDATA[ 
+			<h3>Links and show notes</h3>
+<ul>
+<li><a href="https://9to5mac.com/2019/01/28/facetime-bug-hear-audio/">FaceTime Bug</a></li>
+</ul>
+<h4>Portland Trip</h4>
+<ul>
+<li><a href="https://www.ottoportland.com/">Otto Pizza</a></li>
+<li><a href="http://www.soakology.com/">Soakology</a></li>
+<li><a href="https://www.sur-lie.com/">Sur Lie</a>
+<ul>
+<li>Fried Milk Braised Cauliflower</li>
+<li>Arugula Salad</li>
+<li>Maitake mushrooms with Sun Chokes</li>
+<li>Sur Taters</li>
+<li>Organic Parsnips and Eggs</li>
+<li>Tonkatsu</li>
+<li>Lamb bolognese </li>
+<li>Coffee Cheesecake</li>
+</ul>
+</li>
+<li><a href="https://speckledax.com/">Speckled Ax</a></li>
+<li><a href="https://www.bardcoffee.com/">Bard</a></li>
+</ul>
+	
+		]]>
+			</description>
+			<pubdate>
+				Sat, 09 Feb 2019 12:39:15 -0500
+			</pubdate>
+			<enclosure url="http://keegsands.org/kilobyte/audio/kilobyte-031.mp3" length="7127652" type="audio/mp3" /> 
+			<link>
+				http://keegsands.org/kilobyte/31
+			</link>
+			<guid>
+				http://keegsands.org/kilobyte/31
+			</guid>
+			<itunes:author>
+				Keegan Sands
+			</itunes:author>
+<!-- Overrides subtitle in Overcast and iTunes -->
+			<itunes:summary>
+				Lots of fun stuff including kids and FaceTime, the FaceTime bug and a review of a recent trip to Portland, Maine. 
+			</itunes:summary>
+<!-- Used for Description in iTunes.  Used for subtitle of episode in Overcast and iTunes if no summary-->
+			<itunes:subtitle>
+				Lots of fun stuff including kids and FaceTime, the FaceTime bug and a review of a recent trip to Portland, Maine. 
+			</itunes:subtitle>
+			<itunes:explicit>
+				no
+			</itunes:explicit>
+			<itunes:duration>
+				9:50
+			</itunes:duration>
+			<content:encoded /> 
+		</item>
+	</channel>
+</rss>
