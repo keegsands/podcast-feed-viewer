@@ -53,7 +53,7 @@ export default class Summary extends React.Component {
         }
 
         return (
-            <div><header><img width="300" alt="podcastIcon" src={podcastIcon} class="podcast-icon"></img><h2><a href={podcastHome}>{podcastTitle}</a></h2></header>
+            <div><header><img width="300" alt="podcastIcon" src={podcastIcon} className="podcast-icon"></img><h2><a href={podcastHome}>{podcastTitle}</a></h2></header>
                 <ul>
                     {podcasts.reverse().map((value, index) => {
                         return <div key={index}><Detail podcast={value}/></div>
