@@ -18,3 +18,7 @@ body {
   .podcast-icon{
     border:1px solid #021a40;
   }
+
+  .flip-button{
+    margin-left: 25px;
+  }

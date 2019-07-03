@@ -10,7 +10,9 @@ import parsePodcastFeedFromXML from '../../util/podcast-util';
 const Summary = () => {
 
     // Track the podcast object
-    const [podcast, setPodcast] = useState({ episodes: [] });
+    const [podcast, setPodcast] = useState({});
+    // Track the episodes separately
+    const [episodes, setEpisodes] = useState([])
     // Track if the podcast has been loaded
     const [loaded, setLoaded] = useState(false);
 
@@ -24,16 +26,32 @@ const Summary = () => {
         if (!loaded) {
             axios.get("/feed.xml")
                 .then(function (result) {
-                    setPodcast(parsePodcastFeedFromXML(result.data));
+                    const podcast = parsePodcastFeedFromXML(result.data);
+                    setPodcast(podcast);
+                    setEpisodes(podcast.episodes);
                     setLoaded(true);
+                    if (podcast) {
+                        document.title = podcast.title;
+                    }
                 })
         }
     }
 
+    /** 
+     * Handle the click of the Order Flip button, which will reverse
+     * the episode list and update the state
+    */
+    const handleOrderFlip = () =>{
+        episodes.reverse();
+        setEpisodes([...episodes]);
+    }
+    
+
     return (
         <div><header><Header podcast={podcast} /></header>
+            <button type="button" onClick={handleOrderFlip} className='flip-button'>Flip Order</button>
             <ul>
-                {podcast.episodes.map((value, index) => {
+                {episodes.map((value, index) => {
                     return <div key={index}><Detail episode={value} /></div>
                 })}
             </ul>

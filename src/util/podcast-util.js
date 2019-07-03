@@ -27,9 +27,7 @@ export default function parsePodcastFeedFromXML(feedXML) {
 
         // Check to see if there are episodes and if so process them
         if ('item' in channel && channel.item) {
-
-            // Iterate through the episode list backwards and convert to our episode object
-            reverseLoop(channel.item, element => {
+            channel.item.forEach(element => {
                 podcast.episodes.push(parseEpisode(element));
             });
         }
@@ -75,14 +73,3 @@ function parseEpisode(rawEpisode) {
     return episode;
 }
 
-/**
- * Iterate through a loop backwards and execute a function for each element
- * @param {*} arr Array to iterate through backwards
- * @param {*} fn Function to execute on each item, that will be passed in the item.
- */
-function reverseLoop(arr = [], fn = (item) => { console.log(item); }) {
-    let l = arr.length;
-    while (l--) {
-        fn(arr[l]);
-    }
-}
