@@ -1,29 +1,12 @@
 import React from 'react';
 
-
-const Detail = (props) => {
-    let podcastTitle = props.podcast.title._text;
-    if (!podcastTitle) {
-        let publishDate = new Date(props.podcast.date_published);
-        podcastTitle = publishDate.toLocaleString('en-US');
-    }
-
-    let episodeLink = props.podcast.link._text;
-
-    let descriptionText = '';
-    if ('content:encoded' in props.podcast) {
-        descriptionText = props.podcast['content:encoded']._text;
-    }
-
-    if (!descriptionText) {
-        if ('_cdata' in props.podcast.description) {
-            descriptionText = props.podcast.description._cdata;
-        } else {
-            descriptionText = props.podcast.description._text;
-        }
-    }
+/**
+ * Component for displaying the details of a podcast episode.
+ * @param {*} props podcast episode object 
+ */
+const Detail = ({episode}) => {
     return (
-        <div><a href={episodeLink}><h3>{podcastTitle}</h3></a> <hr /><div dangerouslySetInnerHTML={{ __html: descriptionText }} /></div>
+        <div><a href={episode.link}><h3>{episode.title}</h3></a> <hr /><div dangerouslySetInnerHTML={{ __html: episode.descriptionText }} /></div>
     );
 }
 export default Detail;

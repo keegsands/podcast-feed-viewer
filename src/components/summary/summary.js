@@ -1,47 +1,43 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Detail from '../detail/detail';
-import convert from 'xml-js'
+import Header from '../header/header'
+import parsePodcastFeedFromXML from '../../util/podcast-util';
 
-const Summary = (props) => {
-    const [podcast, setPodcast] = useState({ items: [] });
+/**
+ * Component for displaying the details about a podcast including the episodes
+ */
+const Summary = () => {
+
+    // Track the podcast object
+    const [podcast, setPodcast] = useState({ episodes: [] });
+    // Track if the podcast has been loaded
     const [loaded, setLoaded] = useState(false);
 
-    useEffect(() => { loadFeed() }, []);
+    useEffect(() => { loadFeed() });
 
+    /**
+     * If the feed hasn't been loaded go out and load it.  Set the podcast
+     * state and loaded to true.
+     */
     async function loadFeed() {
-        axios.get("http://localhost:3000/feed.xml")
-            .then(function (result) {
-                const feedJSON = convert.xml2json(result.data, { compact: true, spaces: 4 });
-                setPodcast(JSON.parse(feedJSON));
-                setLoaded(true);
-            })
-      }
-
-    let podcastTitle = '';
-    let podcastHome = '';
-    let podcastIcon = '';
-    let podcasts = [];
-    if (loaded) {
-        podcastTitle = podcast.rss.channel.title._text;
-        podcastHome = podcast.rss.channel.link._text;
-        podcastIcon = podcast.rss.channel['itunes:image']['_attributes']['href'];
-        podcasts = podcast.rss.channel.item;
-    }
-    if (!podcasts) {
-        podcasts = [];
+        if (!loaded) {
+            axios.get("/feed.xml")
+                .then(function (result) {
+                    setPodcast(parsePodcastFeedFromXML(result.data));
+                    setLoaded(true);
+                })
+        }
     }
 
     return (
-        <div><header><img width="300" alt="podcastIcon" src={podcastIcon} className="podcast-icon"></img><h2><a href={podcastHome}>{podcastTitle}</a></h2></header>
+        <div><header><Header podcast={podcast} /></header>
             <ul>
-                {podcasts.reverse().map((value, index) => {
-                    return <div key={index}><Detail podcast={value} /></div>
+                {podcast.episodes.map((value, index) => {
+                    return <div key={index}><Detail episode={value} /></div>
                 })}
             </ul>
         </div>
-
-
     );
 }
 export default Summary;
