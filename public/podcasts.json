@@ -1,20 +1,12 @@
 {
     "podcasts": [
         {
-            "name": "kilobyte",
-            "title": "Kilobyte"
+            "name": "funny-podcast",
+            "title": "My Funny Podcast"
         },
         {
-            "name": "atp",
-            "title": "Accidental Tech Podcast"
-        },
-        {
-            "name": "p4fun",
-            "title": "Playing For Fun"
-        },
-        {
-            "name": "timetable",
-            "title": "Timetable"
+            "name": "tech-podcast",
+            "title": "My Tech Podcast"
         }
     ]
 }
