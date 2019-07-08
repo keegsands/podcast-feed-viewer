@@ -1,0 +1,3221 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Timetable</title>
+    <link>https://timetable.manton.org/</link>
+    <description>A microcast with Manton Reece about working on Micro.blog.</description>
+	<itunes:image href="https://micro.blog/timetable/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:author>Manton Reece</itunes:author>
+	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Manton Reece</itunes:name>
+		<itunes:email>timetable@manton.org</itunes:email>
+	</itunes:owner>
+    
+    <language>en</language>
+    
+    <lastBuildDate>Mon, 12 Nov 2018 10:29:24 -0500</lastBuildDate>
+    <item>
+      <title>Episode 124: Major distraction</title>
+      <link>https://timetable.manton.org/2019/06/25/episode-major-distraction.html</link>
+      <pubDate>Tue, 25 Jun 2019 12:00:18 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2019/06/25/episode-major-distraction.html</guid>
+      <description>&lt;p&gt;A quick recap of last night&amp;rsquo;s longer-than-expected server upgrade. I also talk about progress on the Indie Microblogging book, and Ghost import.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/3235aa7f1d.mp3&#34; controls=&#34;controls&#34; preload=&#34;metadata&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;A quick recap of last night&amp;rsquo;s longer-than-expected server upgrade. I also talk about progress on the Indie Microblogging book, and Ghost import.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/3235aa7f1d.mp3&#34; controls=&#34;controls&#34; preload=&#34;metadata&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;A quick recap of last night&amp;rsquo;s longer-than-expected server upgrade. I also talk about progress on the Indie Microblogging book, and Ghost import.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/3235aa7f1d.mp3&#34; controls=&#34;controls&#34; preload=&#34;metadata&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2019/3235aa7f1d.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 123: Newsletter prep</title>
+      <link>https://timetable.manton.org/2019/06/24/episode-newsletter-prep.html</link>
+      <pubDate>Mon, 24 Jun 2019 13:58:04 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2019/06/24/episode-newsletter-prep.html</guid>
+      <description>&lt;p&gt;Today I&amp;rsquo;m getting the 3rd email newsletter ready, plus talking about server downtime and learning how to communicate mistakes, with AirPower as an example.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/4e621e4387.mp3&#34; controls=&#34;controls&#34; preload=&#34;metadata&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Today I&amp;rsquo;m getting the 3rd email newsletter ready, plus talking about server downtime and learning how to communicate mistakes, with AirPower as an example.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/4e621e4387.mp3&#34; controls=&#34;controls&#34; preload=&#34;metadata&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Today I&amp;rsquo;m getting the 3rd email newsletter ready, plus talking about server downtime and learning how to communicate mistakes, with AirPower as an example.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/4e621e4387.mp3&#34; controls=&#34;controls&#34; preload=&#34;metadata&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2019/4e621e4387.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 122: Video hosting</title>
+      <link>https://timetable.manton.org/2019/04/09/episode-video-hosting.html</link>
+      <pubDate>Tue, 09 Apr 2019 15:11:11 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2019/04/09/episode-video-hosting.html</guid>
+      <description>&lt;p&gt;Rolling out video upload and hosting for Micro.blog-hosted sites, why it&amp;rsquo;s priced the way it is, and more improvements to work on.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/de83442698.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Rolling out video upload and hosting for Micro.blog-hosted sites, why it&amp;rsquo;s priced the way it is, and more improvements to work on.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/de83442698.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Rolling out video upload and hosting for Micro.blog-hosted sites, why it&amp;rsquo;s priced the way it is, and more improvements to work on.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/de83442698.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2019/de83442698.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 121: Saved drafts</title>
+      <link>https://timetable.manton.org/2019/03/27/episode-saved-drafts.html</link>
+      <pubDate>Wed, 27 Mar 2019 16:10:16 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2019/03/27/episode-saved-drafts.html</guid>
+      <description>&lt;p&gt;About the new features in Micro.blog for saving post drafts and the updated Mac app.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/ac25288708.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;About the new features in Micro.blog for saving post drafts and the updated Mac app.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/ac25288708.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;About the new features in Micro.blog for saving post drafts and the updated Mac app.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/ac25288708.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2019/ac25288708.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 120: Shipping tomorrow</title>
+      <link>https://timetable.manton.org/2019/03/25/episode-shipping-tomorrow.html</link>
+      <pubDate>Mon, 25 Mar 2019 17:26:27 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2019/03/25/episode-shipping-tomorrow.html</guid>
+      <description>&lt;p&gt;Taking a break today to watch the Apple services-related event. Preparing new Micro.blog features to release tomorrow.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/5dda603288.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Taking a break today to watch the Apple services-related event. Preparing new Micro.blog features to release tomorrow.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/5dda603288.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Taking a break today to watch the Apple services-related event. Preparing new Micro.blog features to release tomorrow.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://timetable.manton.org/uploads/2019/5dda603288.mp3&#34; controls=&#34;controls&#34; preload=&#34;none&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2019/5dda603288.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 119: Finally stickers</title>
+      <link>https://timetable.manton.org/2019/03/19/episode-finally-stickers.html</link>
+      <pubDate>Tue, 19 Mar 2019 15:25:29 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2019/03/19/episode-finally-stickers.html</guid>
+      <description>&lt;p&gt;Micro.blog stickers for Kickstarter backers are arriving this week! Also: Sunlit 2.4 is approved and will be released soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2019/94d5f684c3.mp3&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Micro.blog stickers for Kickstarter backers are arriving this week! Also: Sunlit 2.4 is approved and will be released soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2019/94d5f684c3.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Micro.blog stickers for Kickstarter backers are arriving this week! Also: Sunlit 2.4 is approved and will be released soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2019/94d5f684c3.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2019/94d5f684c3.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 118: Moment of panic</title>
+      <link>https://timetable.manton.org/2018/12/04/episode-moment-of.html</link>
+      <pubDate>Tue, 04 Dec 2018 15:33:15 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/12/04/episode-moment-of.html</guid>
+      <description>&lt;p&gt;Troubleshooting server problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/35b12a41c7.mp3&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Troubleshooting server problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/35b12a41c7.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Troubleshooting server problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/35b12a41c7.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2018/35b12a41c7.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 117: No downtime</title>
+      <link>https://timetable.manton.org/2018/11/28/episode-no-downtime.html</link>
+      <pubDate>Wed, 28 Nov 2018 17:47:00 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/11/28/episode-no-downtime.html</guid>
+      <description>&lt;p&gt;Some of the work this week including fixing the Sunlit crashing bug, updating the Micro.blog help site, and whether I should take the servers down for an upgrade.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/e93b3fe8c1.mp3&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Some of the work this week including fixing the Sunlit crashing bug, updating the Micro.blog help site, and whether I should take the servers down for an upgrade.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/e93b3fe8c1.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Some of the work this week including fixing the Sunlit crashing bug, updating the Micro.blog help site, and whether I should take the servers down for an upgrade.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/e93b3fe8c1.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2018/e93b3fe8c1.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 116: Breaking up Facebook</title>
+      <link>https://timetable.manton.org/2018/11/15/episode-breaking-up.html</link>
+      <pubDate>Thu, 15 Nov 2018 16:56:59 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/11/15/episode-breaking-up.html</guid>
+      <description>&lt;p&gt;This is an expanded audio version of &lt;a href=&#34;https://manton.org/2018/11/15/breaking-up-facebook.html&#34;&gt;my blog post today about Facebook and Instagram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.manton.org/uploads/2018/0098d93f13.mp3&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;This is an expanded audio version of &lt;a href=&#34;https://manton.org/2018/11/15/breaking-up-facebook.html&#34;&gt;my blog post today about Facebook and Instagram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.manton.org/uploads/2018/0098d93f13.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;This is an expanded audio version of &lt;a href=&#34;https://manton.org/2018/11/15/breaking-up-facebook.html&#34;&gt;my blog post today about Facebook and Instagram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.manton.org/uploads/2018/0098d93f13.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2018/0098d93f13.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 115: Parsing usernames</title>
+      <link>https://timetable.manton.org/2018/11/14/episode-parsing-usernames.html</link>
+      <pubDate>Wed, 14 Nov 2018 11:01:53 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/11/14/episode-parsing-usernames.html</guid>
+      <description>&lt;p&gt;More recent work in Micro.blog for ActivityPub and domain name improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/65e7e3e0ba.mp3&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;More recent work in Micro.blog for ActivityPub and domain name improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/65e7e3e0ba.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;More recent work in Micro.blog for ActivityPub and domain name improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;https://timetable.manton.org/uploads/2018/65e7e3e0ba.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.manton.org/uploads/2018/65e7e3e0ba.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 114: Migrated podcast</title>
+      <link>https://timetable.manton.org/2018/11/12/episode-migrated-podcast.html</link>
+      <pubDate>Mon, 12 Nov 2018 13:03:07 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/11/12/episode-migrated-podcast.html</guid>
+      <description>&lt;p&gt;Moving this podcast over to Micro.blog hosting, and thoughts on the Mastodon support we just launched.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;http://timetable.manton.org/uploads/2018/a77f7e20d5.mp3&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Moving this podcast over to Micro.blog hosting, and thoughts on the Mastodon support we just launched.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;http://timetable.manton.org/uploads/2018/a77f7e20d5.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Moving this podcast over to Micro.blog hosting, and thoughts on the Mastodon support we just launched.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; preload=&#34;none&#34; src=&#34;http://timetable.manton.org/uploads/2018/a77f7e20d5.mp3&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="http://timetable.manton.org/uploads/2018/a77f7e20d5.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 113: Focus on smaller networks</title>
+      <link>https://timetable.manton.org/2018/08/08/episode-focus-on.html</link>
+      <pubDate>Wed, 08 Aug 2018 10:15:59 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/08/08/episode-focus-on.html</guid>
+      <description>&lt;p&gt;An update on microcasting improvements, then thoughts on how the recent articles about Alex Jones and the problems with big social networks always stop short of any solutions. Intro music from Aaron Parecki&amp;#8217;s &lt;a href=&#34;https://100.aaronparecki.com/&#34;&gt;100 days of music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b010dc9164.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;An update on microcasting improvements, then thoughts on how the recent articles about Alex Jones and the problems with big social networks always stop short of any solutions. Intro music from Aaron Parecki&amp;#8217;s &lt;a href=&#34;https://100.aaronparecki.com/&#34;&gt;100 days of music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b010dc9164.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;An update on microcasting improvements, then thoughts on how the recent articles about Alex Jones and the problems with big social networks always stop short of any solutions. Intro music from Aaron Parecki&amp;#8217;s &lt;a href=&#34;https://100.aaronparecki.com/&#34;&gt;100 days of music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b010dc9164.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b010dc9164.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 112: To-do list for podcasting</title>
+      <link>https://timetable.manton.org/2018/08/06/episode-todo-list.html</link>
+      <pubDate>Mon, 06 Aug 2018 10:48:04 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/08/06/episode-todo-list.html</guid>
+      <description>&lt;p&gt;Upcoming improvements to podcasting and some more thoughts on Anchor after listening to &lt;a href=&#34;https://castro.fm/podcast/19d759ce-5a6b-43ef-b7b2-39469df85f47&#34;&gt;episode 35 of the Supertop podcast&lt;/a&gt;. Also, I misspoke the IndieWeb URL on this episode. The &lt;a href=&#34;https://indieweb.org/site-deaths&#34;&gt;site deaths page is here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/344beac309.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Upcoming improvements to podcasting and some more thoughts on Anchor after listening to &lt;a href=&#34;https://castro.fm/podcast/19d759ce-5a6b-43ef-b7b2-39469df85f47&#34;&gt;episode 35 of the Supertop podcast&lt;/a&gt;. Also, I misspoke the IndieWeb URL on this episode. The &lt;a href=&#34;https://indieweb.org/site-deaths&#34;&gt;site deaths page is here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/344beac309.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Upcoming improvements to podcasting and some more thoughts on Anchor after listening to &lt;a href=&#34;https://castro.fm/podcast/19d759ce-5a6b-43ef-b7b2-39469df85f47&#34;&gt;episode 35 of the Supertop podcast&lt;/a&gt;. Also, I misspoke the IndieWeb URL on this episode. The &lt;a href=&#34;https://indieweb.org/site-deaths&#34;&gt;site deaths page is here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/344beac309.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/344beac309.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 111: Kicking off Homebrew Website Club</title>
+      <link>https://timetable.manton.org/2018/08/02/episode-kicking-off.html</link>
+      <pubDate>Thu, 02 Aug 2018 15:25:51 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/08/02/episode-kicking-off.html</guid>
+      <description>&lt;p&gt;Following up on the Facebook API submission and last night&amp;#8217;s Homebrew Website Club. The meetup is the first Wednesday of each month at Mozart&amp;#8217;s Coffee.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/82d516f5b8.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Following up on the Facebook API submission and last night&amp;#8217;s Homebrew Website Club. The meetup is the first Wednesday of each month at Mozart&amp;#8217;s Coffee.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/82d516f5b8.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Following up on the Facebook API submission and last night&amp;#8217;s Homebrew Website Club. The meetup is the first Wednesday of each month at Mozart&amp;#8217;s Coffee.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/82d516f5b8.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/82d516f5b8.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 110: Maybe a bullet journal</title>
+      <link>https://timetable.manton.org/2018/07/30/episode-maybe-a.html</link>
+      <pubDate>Mon, 30 Jul 2018 16:28:42 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/07/30/episode-maybe-a.html</guid>
+      <description>&lt;p&gt;I just sent off the Facebook pages cross-posting for Facebook to hopefully approve, plus wondering if I should try a bullet journal to get more organized.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/bb168bd32b.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I just sent off the Facebook pages cross-posting for Facebook to hopefully approve, plus wondering if I should try a bullet journal to get more organized.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/bb168bd32b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I just sent off the Facebook pages cross-posting for Facebook to hopefully approve, plus wondering if I should try a bullet journal to get more organized.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/bb168bd32b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/bb168bd32b.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 109: First to 30 episodes</title>
+      <link>https://timetable.manton.org/2018/07/26/episode-first-to.html</link>
+      <pubDate>Thu, 26 Jul 2018 18:01:43 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/07/26/episode-first-to.html</guid>
+      <description>&lt;p&gt;How competition changes when you stick with something, with a few clips from &lt;a href=&#34;http://nbaarenatour.com/&#34;&gt;the NBA Arena Tour podcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b696ff3934.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;How competition changes when you stick with something, with a few clips from &lt;a href=&#34;http://nbaarenatour.com/&#34;&gt;the NBA Arena Tour podcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b696ff3934.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;How competition changes when you stick with something, with a few clips from &lt;a href=&#34;http://nbaarenatour.com/&#34;&gt;the NBA Arena Tour podcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b696ff3934.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b696ff3934.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 108: Facebook changes</title>
+      <link>https://timetable.manton.org/2018/07/25/episode-facebook-changes.html</link>
+      <pubDate>Wed, 25 Jul 2018 11:47:06 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/07/25/episode-facebook-changes.html</guid>
+      <description>&lt;p&gt;I start by talking about microcasts, then go into the big job this week: adapting Micro.blog for Facebook&amp;#8217;s API changes, plus thoughts on Twitter&amp;#8217;s upcoming API changes too.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3af5f999e.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I start by talking about microcasts, then go into the big job this week: adapting Micro.blog for Facebook&amp;#8217;s API changes, plus thoughts on Twitter&amp;#8217;s upcoming API changes too.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3af5f999e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I start by talking about microcasts, then go into the big job this week: adapting Micro.blog for Facebook&amp;#8217;s API changes, plus thoughts on Twitter&amp;#8217;s upcoming API changes too.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3af5f999e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/c3af5f999e.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 107: More of the YouTube model</title>
+      <link>https://timetable.manton.org/2018/07/23/episode-more-of.html</link>
+      <pubDate>Mon, 23 Jul 2018 14:55:41 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/07/23/episode-more-of.html</guid>
+      <description>&lt;p&gt;I talk about the new performance improvement to Micro.blog posting, then take a detour into centralized podcasting hosts like Anchor and why I like Micro.blog&amp;#8217;s business model better.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/452365a526.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I talk about the new performance improvement to Micro.blog posting, then take a detour into centralized podcasting hosts like Anchor and why I like Micro.blog&amp;#8217;s business model better.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/452365a526.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I talk about the new performance improvement to Micro.blog posting, then take a detour into centralized podcasting hosts like Anchor and why I like Micro.blog&amp;#8217;s business model better.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/452365a526.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/452365a526.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 106: Dramatically faster</title>
+      <link>https://timetable.manton.org/2018/07/18/episode-dramatically-faster.html</link>
+      <pubDate>Wed, 18 Jul 2018 20:09:26 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/07/18/episode-dramatically-faster.html</guid>
+      <description>&lt;p&gt;While out running a couple errands, I recorded this episode about an upcoming performance improvement to Micro.blog posting, with a follow-up on the recent new sign-up change.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/57fbc9608e.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;While out running a couple errands, I recorded this episode about an upcoming performance improvement to Micro.blog posting, with a follow-up on the recent new sign-up change.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/57fbc9608e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;While out running a couple errands, I recorded this episode about an upcoming performance improvement to Micro.blog posting, with a follow-up on the recent new sign-up change.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/57fbc9608e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/57fbc9608e.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 105: Users without a blog</title>
+      <link>https://timetable.manton.org/2018/07/16/episode-users-without.html</link>
+      <pubDate>Mon, 16 Jul 2018 09:28:01 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/07/16/episode-users-without.html</guid>
+      <description>&lt;p&gt;To start off the week, I talk about a bug that led to many users not creating a microblog after registering an account on Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c98615bbc9.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;To start off the week, I talk about a bug that led to many users not creating a microblog after registering an account on Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c98615bbc9.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;To start off the week, I talk about a bug that led to many users not creating a microblog after registering an account on Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c98615bbc9.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/c98615bbc9.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 104: Freshman orientation</title>
+      <link>https://timetable.manton.org/2018/07/13/episode-freshman-orientation.html</link>
+      <pubDate>Fri, 13 Jul 2018 11:14:21 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/07/13/episode-freshman-orientation.html</guid>
+      <description>&lt;p&gt;Colleges often have a 2-day orientation to get students and parents ready for the school year to start. Micro.blog needs something like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/a13eaa42a3.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Colleges often have a 2-day orientation to get students and parents ready for the school year to start. Micro.blog needs something like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/a13eaa42a3.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Colleges often have a 2-day orientation to get students and parents ready for the school year to start. Micro.blog needs something like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/a13eaa42a3.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/a13eaa42a3.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 103: IndieWeb Summit</title>
+      <link>https://timetable.manton.org/2018/07/03/episode-indieweb-summit.html</link>
+      <pubDate>Tue, 03 Jul 2018 12:13:42 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/07/03/episode-indieweb-summit.html</guid>
+      <description>&lt;p&gt;I&amp;#8217;m back from Portland and rolling out new features for Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b327677bab.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I&amp;#8217;m back from Portland and rolling out new features for Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b327677bab.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I&amp;#8217;m back from Portland and rolling out new features for Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b327677bab.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b327677bab.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 102: Momentum</title>
+      <link>https://timetable.manton.org/2018/05/15/episode-momentum.html</link>
+      <pubDate>Tue, 15 May 2018 15:19:37 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/05/15/episode-momentum.html</guid>
+      <description>&lt;p&gt;I talk about the just-released beta of Dialog, an Android app for Micro.blog, and the ability to delete accounts.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ae5d9b12c7.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I talk about the just-released beta of Dialog, an Android app for Micro.blog, and the ability to delete accounts.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ae5d9b12c7.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I talk about the just-released beta of Dialog, an Android app for Micro.blog, and the ability to delete accounts.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ae5d9b12c7.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/ae5d9b12c7.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 101: While waiting</title>
+      <link>https://timetable.manton.org/2018/05/08/episode-while-waiting.html</link>
+      <pubDate>Tue, 08 May 2018 14:25:26 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/05/08/episode-while-waiting.html</guid>
+      <description>&lt;p&gt;I talk about the upcoming Icro release and what to do while waiting on things like the App Store that are outside our control.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/a64c6682db.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I talk about the upcoming Icro release and what to do while waiting on things like the App Store that are outside our control.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/a64c6682db.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I talk about the upcoming Icro release and what to do while waiting on things like the App Store that are outside our control.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/a64c6682db.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/a64c6682db.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 100: One year</title>
+      <link>https://timetable.manton.org/2018/05/04/episode-one-year.html</link>
+      <pubDate>Fri, 04 May 2018 11:58:39 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/05/04/episode-one-year.html</guid>
+      <description>&lt;p&gt;I record a microcast in the rain and talk about the new Micro.blog for Mac app and the fact that we&amp;#8217;re a year in to Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3609d1789.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I record a microcast in the rain and talk about the new Micro.blog for Mac app and the fact that we&amp;#8217;re a year in to Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3609d1789.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I record a microcast in the rain and talk about the new Micro.blog for Mac app and the fact that we&amp;#8217;re a year in to Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3609d1789.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/c3609d1789.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 99: Almost all about photos</title>
+      <link>https://timetable.manton.org/2018/04/19/episode-almost-all.html</link>
+      <pubDate>Thu, 19 Apr 2018 12:42:50 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/04/19/episode-almost-all.html</guid>
+      <description>&lt;p&gt;I talk about the latest iOS update, why square photos are great, and responding to support email.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b0be28c61c.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I talk about the latest iOS update, why square photos are great, and responding to support email.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b0be28c61c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I talk about the latest iOS update, why square photos are great, and responding to support email.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b0be28c61c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b0be28c61c.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 98: To really value it</title>
+      <link>https://timetable.manton.org/2018/04/17/episode-to-really.html</link>
+      <pubDate>Wed, 18 Apr 2018 00:22:23 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/04/17/episode-to-really.html</guid>
+      <description>&lt;p&gt;Wrapping up the release of Wavelength and microcast support in Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/71516e9ef1.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Wrapping up the release of Wavelength and microcast support in Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/71516e9ef1.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Wrapping up the release of Wavelength and microcast support in Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/71516e9ef1.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/71516e9ef1.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 97: Not quite there</title>
+      <link>https://timetable.manton.org/2018/04/09/episode-not-quite.html</link>
+      <pubDate>Mon, 09 Apr 2018 11:48:23 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/04/09/episode-not-quite.html</guid>
+      <description>&lt;p&gt;Anticipating a new feature for Micro.blog and rolling out some server improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/737b4d0334.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Anticipating a new feature for Micro.blog and rolling out some server improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/737b4d0334.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Anticipating a new feature for Micro.blog and rolling out some server improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/737b4d0334.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/737b4d0334.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 96: Name brainstorming</title>
+      <link>https://timetable.manton.org/2018/03/27/episode-name-brainstorming.html</link>
+      <pubDate>Tue, 27 Mar 2018 16:48:32 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/03/27/episode-name-brainstorming.html</guid>
+      <description>&lt;p&gt;Quick thoughts on Apple&amp;#8217;s education event in Chicago, their new app Schoolwork, and the process for naming new apps. (And yes, I call it Schoolroom in the podcast by accident.)&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b1b526b079.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Quick thoughts on Apple&amp;#8217;s education event in Chicago, their new app Schoolwork, and the process for naming new apps. (And yes, I call it Schoolroom in the podcast by accident.)&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b1b526b079.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Quick thoughts on Apple&amp;#8217;s education event in Chicago, their new app Schoolwork, and the process for naming new apps. (And yes, I call it Schoolroom in the podcast by accident.)&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b1b526b079.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b1b526b079.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 95: Busy morning</title>
+      <link>https://timetable.manton.org/2018/03/26/episode-busy-morning.html</link>
+      <pubDate>Tue, 27 Mar 2018 00:30:08 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/03/26/episode-busy-morning.html</guid>
+      <description>&lt;p&gt;Wrapping up today&amp;#8217;s announcements, including a new Micro Monday and Micro.blog for Mac version 1.2.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/459a8834b0.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Wrapping up today&amp;#8217;s announcements, including a new Micro Monday and Micro.blog for Mac version 1.2.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/459a8834b0.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Wrapping up today&amp;#8217;s announcements, including a new Micro Monday and Micro.blog for Mac version 1.2.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/459a8834b0.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/459a8834b0.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 94: Can’t talk about it</title>
+      <link>https://timetable.manton.org/2018/03/20/episode-cant-talk.html</link>
+      <pubDate>Tue, 20 Mar 2018 19:20:37 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/03/20/episode-cant-talk.html</guid>
+      <description>&lt;p&gt;Working on a lot of things at once, and thoughts on the new &lt;a href=&#34;https://monday.micro.blog/&#34;&gt;Micro Monday microcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/dc082533ce.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Working on a lot of things at once, and thoughts on the new &lt;a href=&#34;https://monday.micro.blog/&#34;&gt;Micro Monday microcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/dc082533ce.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Working on a lot of things at once, and thoughts on the new &lt;a href=&#34;https://monday.micro.blog/&#34;&gt;Micro Monday microcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/dc082533ce.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/dc082533ce.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 93: Preparing Sunlit 2.0</title>
+      <link>https://timetable.manton.org/2018/03/05/episode-preparing-sunlit.html</link>
+      <pubDate>Mon, 05 Mar 2018 13:56:49 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/03/05/episode-preparing-sunlit.html</guid>
+      <description>&lt;p&gt;The microcast is back! I talk about the final steps to get Sunlit 2.0 shipped and what we hope for the release.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/27de55e763.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;The microcast is back! I talk about the final steps to get Sunlit 2.0 shipped and what we hope for the release.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/27de55e763.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;The microcast is back! I talk about the final steps to get Sunlit 2.0 shipped and what we hope for the release.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/27de55e763.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/27de55e763.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 92: Good, better, best</title>
+      <link>https://timetable.manton.org/2018/01/12/episode-good-better.html</link>
+      <pubDate>Fri, 12 Jan 2018 15:01:47 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2018/01/12/episode-good-better.html</guid>
+      <description>&lt;p&gt;Good, better, best.&lt;br /&gt;
+Never let it rest.&lt;br /&gt;
+&amp;#8216;Til your good is better&lt;br /&gt;
+&amp;amp; your better is your best.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e65e484ae5.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Good, better, best.&lt;br /&gt;
+Never let it rest.&lt;br /&gt;
+&amp;#8216;Til your good is better&lt;br /&gt;
+&amp;amp; your better is your best.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e65e484ae5.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Good, better, best.&lt;br /&gt;
+Never let it rest.&lt;br /&gt;
+&amp;#8216;Til your good is better&lt;br /&gt;
+&amp;amp; your better is your best.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e65e484ae5.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/e65e484ae5.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 91: Lose yourself</title>
+      <link>https://timetable.manton.org/2017/12/21/episode-lose-yourself.html</link>
+      <pubDate>Thu, 21 Dec 2017 15:01:22 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/12/21/episode-lose-yourself.html</guid>
+      <description>&lt;p&gt;Listening to Eminem, the Killers, and thinking about giving Micro.blog everything this year. Closing music cover by &lt;a href=&#34;https://www.youtube.com/ozsound&#34;&gt;OZsound&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/4a5f31bb11.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Listening to Eminem, the Killers, and thinking about giving Micro.blog everything this year. Closing music cover by &lt;a href=&#34;https://www.youtube.com/ozsound&#34;&gt;OZsound&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/4a5f31bb11.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Listening to Eminem, the Killers, and thinking about giving Micro.blog everything this year. Closing music cover by &lt;a href=&#34;https://www.youtube.com/ozsound&#34;&gt;OZsound&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/4a5f31bb11.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/4a5f31bb11.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 90: Breakfast taco catering</title>
+      <link>https://timetable.manton.org/2017/12/07/episode-breakfast-taco.html</link>
+      <pubDate>Thu, 07 Dec 2017 17:14:55 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/12/07/episode-breakfast-taco.html</guid>
+      <description>&lt;p&gt;Final plans for &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt;, ordering breakfast, and punting on opening up Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2e11b1053f.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Final plans for &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt;, ordering breakfast, and punting on opening up Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2e11b1053f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Final plans for &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt;, ordering breakfast, and punting on opening up Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2e11b1053f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/2e11b1053f.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 89: More blog software</title>
+      <link>https://timetable.manton.org/2017/12/05/episode-more-blog.html</link>
+      <pubDate>Tue, 05 Dec 2017 14:47:43 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/12/05/episode-more-blog.html</guid>
+      <description>&lt;p&gt;MarsEdit 4 ships! I talk about why apps should be compatible, and the challenge in reaching a new audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b6617587ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;MarsEdit 4 ships! I talk about why apps should be compatible, and the challenge in reaching a new audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b6617587ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;MarsEdit 4 ships! I talk about why apps should be compatible, and the challenge in reaching a new audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b6617587ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b6617587ee.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 88: Rumor has it</title>
+      <link>https://timetable.manton.org/2017/12/04/episode-rumor-has.html</link>
+      <pubDate>Mon, 04 Dec 2017 17:37:00 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/12/04/episode-rumor-has.html</guid>
+      <description>&lt;p&gt;More delays launching Micro.blog, last-minute fixes, rate limiting, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/199cb51e61.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;More delays launching Micro.blog, last-minute fixes, rate limiting, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/199cb51e61.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;More delays launching Micro.blog, last-minute fixes, rate limiting, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/199cb51e61.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/199cb51e61.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 87: Week wrap-up</title>
+      <link>https://timetable.manton.org/2017/12/01/episode-week-wrapup.html</link>
+      <pubDate>Fri, 01 Dec 2017 22:50:23 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/12/01/episode-week-wrapup.html</guid>
+      <description>&lt;p&gt;Just a quick episode at the end of the week. Looking forward to next week: getting the word out about Micro.blog and IndieWebCamp.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/88da006825.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Just a quick episode at the end of the week. Looking forward to next week: getting the word out about Micro.blog and IndieWebCamp.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/88da006825.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Just a quick episode at the end of the week. Looking forward to next week: getting the word out about Micro.blog and IndieWebCamp.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/88da006825.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/88da006825.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 86: Profile photos</title>
+      <link>https://timetable.manton.org/2017/11/30/episode-profile-photos.html</link>
+      <pubDate>Thu, 30 Nov 2017 18:13:58 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/30/episode-profile-photos.html</guid>
+      <description>&lt;p&gt;Micro.blog now supports uploading custom profile photos. Finally!&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7dcb786a88.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Micro.blog now supports uploading custom profile photos. Finally!&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7dcb786a88.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Micro.blog now supports uploading custom profile photos. Finally!&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7dcb786a88.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/7dcb786a88.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 85: Slowly chip away</title>
+      <link>https://timetable.manton.org/2017/11/29/episode-slowly-chip.html</link>
+      <pubDate>Wed, 29 Nov 2017 22:40:43 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/29/episode-slowly-chip.html</guid>
+      <description>&lt;p&gt;Watching the Spurs game tonight and thinking about the steady progress and growth of Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ea3b88241c.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Watching the Spurs game tonight and thinking about the steady progress and growth of Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ea3b88241c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Watching the Spurs game tonight and thinking about the steady progress and growth of Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ea3b88241c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/ea3b88241c.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 84: It’s still November</title>
+      <link>https://timetable.manton.org/2017/11/28/episode-its-still.html</link>
+      <pubDate>Tue, 28 Nov 2017 18:12:05 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/28/episode-its-still.html</guid>
+      <description>&lt;p&gt;Deciding on a 100-user limit per day, and the feeling that we&amp;#8217;re almost to the launch. Also, &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9a6906b5ce.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Deciding on a 100-user limit per day, and the feeling that we&amp;#8217;re almost to the launch. Also, &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9a6906b5ce.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Deciding on a 100-user limit per day, and the feeling that we&amp;#8217;re almost to the launch. Also, &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9a6906b5ce.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/9a6906b5ce.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 83: Event countdown</title>
+      <link>https://timetable.manton.org/2017/11/27/episode-event-countdown.html</link>
+      <pubDate>Mon, 27 Nov 2017 12:06:48 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/27/episode-event-countdown.html</guid>
+      <description>&lt;p&gt;This week&amp;#8217;s plans, including blog posts about &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt; and a strategy for the Micro.blog launch.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3064bbb032.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;This week&amp;#8217;s plans, including blog posts about &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt; and a strategy for the Micro.blog launch.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3064bbb032.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;This week&amp;#8217;s plans, including blog posts about &lt;a href=&#34;https://www.eventbrite.com/e/indiewebcamp-austin-2017-tickets-39918084064&#34;&gt;IndieWebCamp&lt;/a&gt; and a strategy for the Micro.blog launch.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3064bbb032.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/3064bbb032.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 82: Web discover screen</title>
+      <link>https://timetable.manton.org/2017/11/24/episode-web-discover.html</link>
+      <pubDate>Fri, 24 Nov 2017 13:22:40 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/24/episode-web-discover.html</guid>
+      <description>&lt;p&gt;Why it&amp;#8217;s important to have the new discover posts timeline on the web, a reminder about &lt;a href=&#34;https://2017.indieweb.org/austin&#34;&gt;IndieWebCamp Austin&lt;/a&gt;, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2c7db6e56c.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Why it&amp;#8217;s important to have the new discover posts timeline on the web, a reminder about &lt;a href=&#34;https://2017.indieweb.org/austin&#34;&gt;IndieWebCamp Austin&lt;/a&gt;, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2c7db6e56c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Why it&amp;#8217;s important to have the new discover posts timeline on the web, a reminder about &lt;a href=&#34;https://2017.indieweb.org/austin&#34;&gt;IndieWebCamp Austin&lt;/a&gt;, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2c7db6e56c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/2c7db6e56c.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 81: Blog archive format</title>
+      <link>https://timetable.manton.org/2017/11/21/episode-blog-archive.html</link>
+      <pubDate>Tue, 21 Nov 2017 11:07:36 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/21/episode-blog-archive.html</guid>
+      <description>&lt;p&gt;I ramble a bit about Micro.blog&amp;#8217;s support for exporting WXR files, and the need for a more general blog archive file format.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/705f8a9a63.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I ramble a bit about Micro.blog&amp;#8217;s support for exporting WXR files, and the need for a more general blog archive file format.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/705f8a9a63.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I ramble a bit about Micro.blog&amp;#8217;s support for exporting WXR files, and the need for a more general blog archive file format.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/705f8a9a63.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/705f8a9a63.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 80: I got the photo pin</title>
+      <link>https://timetable.manton.org/2017/11/17/episode-i-got.html</link>
+      <pubDate>Fri, 17 Nov 2017 22:16:05 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/17/episode-i-got.html</guid>
+      <description>&lt;p&gt;Sending a Kickstarter email update and some thoughts on how @-mentions are still confusing.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/4bea2b4d1b.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Sending a Kickstarter email update and some thoughts on how @-mentions are still confusing.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/4bea2b4d1b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Sending a Kickstarter email update and some thoughts on how @-mentions are still confusing.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/4bea2b4d1b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/4bea2b4d1b.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 79: IndieWebCamp venue</title>
+      <link>https://timetable.manton.org/2017/11/16/episode-indiewebcamp-venue.html</link>
+      <pubDate>Thu, 16 Nov 2017 16:30:38 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/16/episode-indiewebcamp-venue.html</guid>
+      <description>&lt;p&gt;The photo challenge on Micro.blog, and finding a venue for IndieWebCamp Austin. You can now &lt;a href=&#34;https://2017.indieweb.org/austin&#34;&gt;register for IndieWebCamp here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7ced76f1d9.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;The photo challenge on Micro.blog, and finding a venue for IndieWebCamp Austin. You can now &lt;a href=&#34;https://2017.indieweb.org/austin&#34;&gt;register for IndieWebCamp here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7ced76f1d9.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;The photo challenge on Micro.blog, and finding a venue for IndieWebCamp Austin. You can now &lt;a href=&#34;https://2017.indieweb.org/austin&#34;&gt;register for IndieWebCamp here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7ced76f1d9.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/7ced76f1d9.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 78: Good enough for 1.0</title>
+      <link>https://timetable.manton.org/2017/11/09/episode-good-enough.html</link>
+      <pubDate>Thu, 09 Nov 2017 16:50:47 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/09/episode-good-enough.html</guid>
+      <description>&lt;p&gt;I wrap up some of the recent progress on Micro.blog for Mac, WordPress import, the home page text, invites, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e66c012835.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I wrap up some of the recent progress on Micro.blog for Mac, WordPress import, the home page text, invites, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e66c012835.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I wrap up some of the recent progress on Micro.blog for Mac, WordPress import, the home page text, invites, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e66c012835.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/e66c012835.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 77: Always reacting</title>
+      <link>https://timetable.manton.org/2017/11/03/episode-always-reacting.html</link>
+      <pubDate>Fri, 03 Nov 2017 17:01:09 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/03/episode-always-reacting.html</guid>
+      <description>&lt;p&gt;While waiting for my iPhone X to arrive, I&amp;#8217;m fixing bugs and thinking about making more time for the big picture.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f5eeb93bd2.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;While waiting for my iPhone X to arrive, I&amp;#8217;m fixing bugs and thinking about making more time for the big picture.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f5eeb93bd2.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;While waiting for my iPhone X to arrive, I&amp;#8217;m fixing bugs and thinking about making more time for the big picture.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f5eeb93bd2.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/f5eeb93bd2.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 76: South venue traffic</title>
+      <link>https://timetable.manton.org/2017/11/01/episode-south-venue.html</link>
+      <pubDate>Thu, 02 Nov 2017 00:48:35 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/11/01/episode-south-venue.html</guid>
+      <description>&lt;p&gt;We check out a venue for IndieWebCamp Austin and then my internet goes down for hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/112c32f728.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;We check out a venue for IndieWebCamp Austin and then my internet goes down for hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/112c32f728.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;We check out a venue for IndieWebCamp Austin and then my internet goes down for hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/112c32f728.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/112c32f728.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 75: Halloween pin</title>
+      <link>https://timetable.manton.org/2017/10/31/episode-halloween-pin.html</link>
+      <pubDate>Tue, 31 Oct 2017 15:14:44 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/31/episode-halloween-pin.html</guid>
+      <description>&lt;p&gt;How pins in Micro.blog work, and why they&amp;#8217;re there, while introducing a new pin for Halloween.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9dafa87b40.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;How pins in Micro.blog work, and why they&amp;#8217;re there, while introducing a new pin for Halloween.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9dafa87b40.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;How pins in Micro.blog work, and why they&amp;#8217;re there, while introducing a new pin for Halloween.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9dafa87b40.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/9dafa87b40.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 74: They had all moved out</title>
+      <link>https://timetable.manton.org/2017/10/30/episode-they-had.html</link>
+      <pubDate>Mon, 30 Oct 2017 15:09:39 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/30/episode-they-had.html</guid>
+      <description>&lt;p&gt;About cancelling my WeWork membership, and observations on companies growing and failing.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/30cad6d5f1.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;About cancelling my WeWork membership, and observations on companies growing and failing.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/30cad6d5f1.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;About cancelling my WeWork membership, and observations on companies growing and failing.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/30cad6d5f1.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/30cad6d5f1.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 73: The missing piece</title>
+      <link>https://timetable.manton.org/2017/10/27/episode-the-missing.html</link>
+      <pubDate>Fri, 27 Oct 2017 11:31:30 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/27/episode-the-missing.html</guid>
+      <description>&lt;p&gt;Waking up at 2am to pre-order the iPhone X, and why I redesigned the Discover section in Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/1696dd6be0.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Waking up at 2am to pre-order the iPhone X, and why I redesigned the Discover section in Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/1696dd6be0.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Waking up at 2am to pre-order the iPhone X, and why I redesigned the Discover section in Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/1696dd6be0.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/1696dd6be0.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 72: Mac icons</title>
+      <link>https://timetable.manton.org/2017/10/20/episode-mac-icons.html</link>
+      <pubDate>Fri, 20 Oct 2017 16:48:50 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/20/episode-mac-icons.html</guid>
+      <description>&lt;p&gt;I&amp;#8217;m back in Austin after a great week in Chicago. Quick update on the latest Mac beta, with new icons and bug fixes.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9f5ff3d738.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I&amp;#8217;m back in Austin after a great week in Chicago. Quick update on the latest Mac beta, with new icons and bug fixes.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9f5ff3d738.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I&amp;#8217;m back in Austin after a great week in Chicago. Quick update on the latest Mac beta, with new icons and bug fixes.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9f5ff3d738.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/9f5ff3d738.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 71: Seek out the audacious</title>
+      <link>https://timetable.manton.org/2017/10/18/episode-seek-out.html</link>
+      <pubDate>Wed, 18 Oct 2017 18:35:20 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/18/episode-seek-out.html</guid>
+      <description>&lt;p&gt;More from the Release Notes conference in Chicago, with a mention of Anne Halsall&amp;#8217;s talk &lt;a href=&#34;https://medium.com/@annekate/six-impossible-things-before-breakfast-471848027c7f&#34;&gt;about impossible things&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3fbeb5d07e.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;More from the Release Notes conference in Chicago, with a mention of Anne Halsall&amp;#8217;s talk &lt;a href=&#34;https://medium.com/@annekate/six-impossible-things-before-breakfast-471848027c7f&#34;&gt;about impossible things&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3fbeb5d07e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;More from the Release Notes conference in Chicago, with a mention of Anne Halsall&amp;#8217;s talk &lt;a href=&#34;https://medium.com/@annekate/six-impossible-things-before-breakfast-471848027c7f&#34;&gt;about impossible things&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3fbeb5d07e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/3fbeb5d07e.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 70: Early flight to Chicago</title>
+      <link>https://timetable.manton.org/2017/10/16/episode-early-flight.html</link>
+      <pubDate>Mon, 16 Oct 2017 19:06:20 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/16/episode-early-flight.html</guid>
+      <description>&lt;p&gt;Arriving in Chicago for the Release Notes conference, and the first reaction of the Mac beta.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d8086ca220.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Arriving in Chicago for the Release Notes conference, and the first reaction of the Mac beta.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d8086ca220.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Arriving in Chicago for the Release Notes conference, and the first reaction of the Mac beta.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d8086ca220.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/d8086ca220.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 69: Less terrible over time</title>
+      <link>https://timetable.manton.org/2017/10/13/episode-less-terrible.html</link>
+      <pubDate>Fri, 13 Oct 2017 16:37:24 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/13/episode-less-terrible.html</guid>
+      <description>&lt;p&gt;Working on something like Micro.blog for a long time, inspired by &lt;a href=&#34;https://www.relay.fm/radar/100&#34;&gt;episode 100 of Under the Radar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7405314931.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Working on something like Micro.blog for a long time, inspired by &lt;a href=&#34;https://www.relay.fm/radar/100&#34;&gt;episode 100 of Under the Radar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7405314931.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Working on something like Micro.blog for a long time, inspired by &lt;a href=&#34;https://www.relay.fm/radar/100&#34;&gt;episode 100 of Under the Radar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7405314931.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/7405314931.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 68: It’s coming together</title>
+      <link>https://timetable.manton.org/2017/10/12/episode-its-coming.html</link>
+      <pubDate>Thu, 12 Oct 2017 17:38:43 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/12/episode-its-coming.html</guid>
+      <description>&lt;p&gt;Some of the recent Micro.blog for Mac progress and feature set. Hoping to send a beta within the next few days.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0b8e7b86f1.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Some of the recent Micro.blog for Mac progress and feature set. Hoping to send a beta within the next few days.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0b8e7b86f1.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Some of the recent Micro.blog for Mac progress and feature set. Hoping to send a beta within the next few days.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0b8e7b86f1.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/0b8e7b86f1.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 67: Don’t need permission</title>
+      <link>https://timetable.manton.org/2017/10/11/episode-dont-need.html</link>
+      <pubDate>Wed, 11 Oct 2017 23:52:07 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/11/episode-dont-need.html</guid>
+      <description>&lt;p&gt;More about animator Floyd Norman with a clip from &lt;a href=&#34;https://www.netflix.com/title/80125496&#34;&gt;his documentary&lt;/a&gt;, plus Casey Neistat&amp;#8217;s &lt;a href=&#34;https://www.youtube.com/watch?v=jG7dSXcfVqE&#34;&gt;Do what you can&amp;#8217;t&lt;/a&gt; and LaVar Ball on &lt;a href=&#34;https://www.youtube.com/watch?v=ta5whAEAUzY&#34;&gt;being the best&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d4e469a44f.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;More about animator Floyd Norman with a clip from &lt;a href=&#34;https://www.netflix.com/title/80125496&#34;&gt;his documentary&lt;/a&gt;, plus Casey Neistat&amp;#8217;s &lt;a href=&#34;https://www.youtube.com/watch?v=jG7dSXcfVqE&#34;&gt;Do what you can&amp;#8217;t&lt;/a&gt; and LaVar Ball on &lt;a href=&#34;https://www.youtube.com/watch?v=ta5whAEAUzY&#34;&gt;being the best&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d4e469a44f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;More about animator Floyd Norman with a clip from &lt;a href=&#34;https://www.netflix.com/title/80125496&#34;&gt;his documentary&lt;/a&gt;, plus Casey Neistat&amp;#8217;s &lt;a href=&#34;https://www.youtube.com/watch?v=jG7dSXcfVqE&#34;&gt;Do what you can&amp;#8217;t&lt;/a&gt; and LaVar Ball on &lt;a href=&#34;https://www.youtube.com/watch?v=ta5whAEAUzY&#34;&gt;being the best&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d4e469a44f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/d4e469a44f.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 66: Mac App Store</title>
+      <link>https://timetable.manton.org/2017/10/10/episode-mac-app.html</link>
+      <pubDate>Tue, 10 Oct 2017 15:21:00 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/10/episode-mac-app.html</guid>
+      <description>&lt;p&gt;Should Micro.blog be in the Mac App Store? I&amp;#8217;m inspired to answer the question from a discussion on &lt;a href=&#34;https://releasenotes.tv/230-apple-got-its-aws-bill/&#34;&gt;episode 230 of Release Notes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/58a795527f.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Should Micro.blog be in the Mac App Store? I&amp;#8217;m inspired to answer the question from a discussion on &lt;a href=&#34;https://releasenotes.tv/230-apple-got-its-aws-bill/&#34;&gt;episode 230 of Release Notes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/58a795527f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Should Micro.blog be in the Mac App Store? I&amp;#8217;m inspired to answer the question from a discussion on &lt;a href=&#34;https://releasenotes.tv/230-apple-got-its-aws-bill/&#34;&gt;episode 230 of Release Notes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/58a795527f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/58a795527f.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 65: Gone all day</title>
+      <link>https://timetable.manton.org/2017/10/09/episode-gone-all.html</link>
+      <pubDate>Tue, 10 Oct 2017 00:25:56 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/09/episode-gone-all.html</guid>
+      <description>&lt;p&gt;Morning thoughts about WordPress&amp;#8217;s Gutenberg, then using the old tape deck on the drive back from north Texas.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/66134f5043.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Morning thoughts about WordPress&amp;#8217;s Gutenberg, then using the old tape deck on the drive back from north Texas.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/66134f5043.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Morning thoughts about WordPress&amp;#8217;s Gutenberg, then using the old tape deck on the drive back from north Texas.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/66134f5043.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/66134f5043.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 64: At a furious pace</title>
+      <link>https://timetable.manton.org/2017/10/06/episode-at-a.html</link>
+      <pubDate>Fri, 06 Oct 2017 17:59:07 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/06/episode-at-a.html</guid>
+      <description>&lt;p&gt;Thoughts on maintaining Micro.blog for both iOS and the Mac, then closing the week with a quote &lt;a href=&#34;http://floydnormancom.squarespace.com/blog/2017/10/3/ward-kimball&#34;&gt;from Floyd Norman&amp;#8217;s blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3b114859c4.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Thoughts on maintaining Micro.blog for both iOS and the Mac, then closing the week with a quote &lt;a href=&#34;http://floydnormancom.squarespace.com/blog/2017/10/3/ward-kimball&#34;&gt;from Floyd Norman&amp;#8217;s blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3b114859c4.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Thoughts on maintaining Micro.blog for both iOS and the Mac, then closing the week with a quote &lt;a href=&#34;http://floydnormancom.squarespace.com/blog/2017/10/3/ward-kimball&#34;&gt;from Floyd Norman&amp;#8217;s blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/3b114859c4.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/3b114859c4.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 63: Courage to post it</title>
+      <link>https://timetable.manton.org/2017/10/05/episode-courage-to.html</link>
+      <pubDate>Thu, 05 Oct 2017 16:15:44 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/05/episode-courage-to.html</guid>
+      <description>&lt;p&gt;Last night&amp;#8217;s Homebrew Website Club, and then &lt;a href=&#34;https://www.youtube.com/watch?v=imG22rjrrdI&#34;&gt;part of Manu Ginobili&amp;#8217;s new vlog&lt;/a&gt; as I talk about overcoming the nervousness to post something new.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d2dc118078.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Last night&amp;#8217;s Homebrew Website Club, and then &lt;a href=&#34;https://www.youtube.com/watch?v=imG22rjrrdI&#34;&gt;part of Manu Ginobili&amp;#8217;s new vlog&lt;/a&gt; as I talk about overcoming the nervousness to post something new.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d2dc118078.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Last night&amp;#8217;s Homebrew Website Club, and then &lt;a href=&#34;https://www.youtube.com/watch?v=imG22rjrrdI&#34;&gt;part of Manu Ginobili&amp;#8217;s new vlog&lt;/a&gt; as I talk about overcoming the nervousness to post something new.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/d2dc118078.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/d2dc118078.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 62: Narrow focus</title>
+      <link>https://timetable.manton.org/2017/10/04/episode-narrow-focus.html</link>
+      <pubDate>Wed, 04 Oct 2017 16:26:21 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/04/episode-narrow-focus.html</guid>
+      <description>&lt;p&gt;Looking ahead to tonight&amp;#8217;s Homebrew Website Club meetup and a basic roadmap for Micro.blog for the Mac.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9f1221472a.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Looking ahead to tonight&amp;#8217;s Homebrew Website Club meetup and a basic roadmap for Micro.blog for the Mac.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9f1221472a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Looking ahead to tonight&amp;#8217;s Homebrew Website Club meetup and a basic roadmap for Micro.blog for the Mac.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9f1221472a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/9f1221472a.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 61: Kind of an outsider</title>
+      <link>https://timetable.manton.org/2017/10/03/episode-kind-of.html</link>
+      <pubDate>Tue, 03 Oct 2017 16:30:37 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/03/episode-kind-of.html</guid>
+      <description>&lt;p&gt;More thoughts from WordCamp about being an outsider in a new community, and progress on the Mac version of Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/10fd47ecbc.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;More thoughts from WordCamp about being an outsider in a new community, and progress on the Mac version of Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/10fd47ecbc.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;More thoughts from WordCamp about being an outsider in a new community, and progress on the Mac version of Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/10fd47ecbc.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/10fd47ecbc.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 60: Discourage certain behavior</title>
+      <link>https://timetable.manton.org/2017/10/02/episode-discourage-certain.html</link>
+      <pubDate>Mon, 02 Oct 2017 11:40:29 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/10/02/episode-discourage-certain.html</guid>
+      <description>&lt;p&gt;I&amp;#8217;m back from WordCamp in San Antonio. My initial thoughts, plus a comment on the shooting in Las Vegas.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/671306197c.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I&amp;#8217;m back from WordCamp in San Antonio. My initial thoughts, plus a comment on the shooting in Las Vegas.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/671306197c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I&amp;#8217;m back from WordCamp in San Antonio. My initial thoughts, plus a comment on the shooting in Las Vegas.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/671306197c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/671306197c.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 59: Show up every day</title>
+      <link>https://timetable.manton.org/2017/09/29/episode-show-up.html</link>
+      <pubDate>Fri, 29 Sep 2017 09:58:21 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/29/episode-show-up.html</guid>
+      <description>&lt;p&gt;Five days in a row of podcasting, with a clip &lt;a href=&#34;https://www.youtube.com/watch?v=-lDQc1mGAvY&#34;&gt;from a video by Casey Neistat&lt;/a&gt;, and a preview of WordCamp in San Antonio.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9a5c3e1c3c.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Five days in a row of podcasting, with a clip &lt;a href=&#34;https://www.youtube.com/watch?v=-lDQc1mGAvY&#34;&gt;from a video by Casey Neistat&lt;/a&gt;, and a preview of WordCamp in San Antonio.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9a5c3e1c3c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Five days in a row of podcasting, with a clip &lt;a href=&#34;https://www.youtube.com/watch?v=-lDQc1mGAvY&#34;&gt;from a video by Casey Neistat&lt;/a&gt;, and a preview of WordCamp in San Antonio.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9a5c3e1c3c.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/9a5c3e1c3c.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 58: Marketing, marketing, marketing</title>
+      <link>https://timetable.manton.org/2017/09/28/episode-marketing-marketing.html</link>
+      <pubDate>Thu, 28 Sep 2017 14:37:03 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/28/episode-marketing-marketing.html</guid>
+      <description>&lt;p&gt;If hardly anyone is paying attention, maybe it&amp;#8217;s okay to repeat myself more often. Marketing is repetition.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2b3a5b6e35.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;If hardly anyone is paying attention, maybe it&amp;#8217;s okay to repeat myself more often. Marketing is repetition.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2b3a5b6e35.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;If hardly anyone is paying attention, maybe it&amp;#8217;s okay to repeat myself more often. Marketing is repetition.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2b3a5b6e35.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/2b3a5b6e35.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 57: 280 characters</title>
+      <link>https://timetable.manton.org/2017/09/27/episode-characters.html</link>
+      <pubDate>Wed, 27 Sep 2017 12:54:33 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/27/episode-characters.html</guid>
+      <description>&lt;p&gt;Quick thoughts on Twitter&amp;#8217;s announcement that they are experimenting with a new 280-character limit on tweets.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/619c62ac7e.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Quick thoughts on Twitter&amp;#8217;s announcement that they are experimenting with a new 280-character limit on tweets.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/619c62ac7e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Quick thoughts on Twitter&amp;#8217;s announcement that they are experimenting with a new 280-character limit on tweets.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/619c62ac7e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/619c62ac7e.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 56: First impressions</title>
+      <link>https://timetable.manton.org/2017/09/26/episode-first-impressions.html</link>
+      <pubDate>Tue, 26 Sep 2017 13:16:17 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/26/episode-first-impressions.html</guid>
+      <description>&lt;p&gt;Getting a second chance with new users, the latest iOS app, and not dwelling on past mistakes.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/59234893d6.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Getting a second chance with new users, the latest iOS app, and not dwelling on past mistakes.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/59234893d6.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Getting a second chance with new users, the latest iOS app, and not dwelling on past mistakes.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/59234893d6.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/59234893d6.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 55: Your mind wanders</title>
+      <link>https://timetable.manton.org/2017/09/25/episode-your-mind.html</link>
+      <pubDate>Mon, 25 Sep 2017 13:23:38 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/25/episode-your-mind.html</guid>
+      <description>&lt;p&gt;Writing the book and trying to capture the ideas when my mind wanders, inspired by &lt;a href=&#34;https://www.youtube.com/watch?v=4RVaJSZ5XG8&#34;&gt;this clip from animator Sergio Pablos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/07db145c83.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Writing the book and trying to capture the ideas when my mind wanders, inspired by &lt;a href=&#34;https://www.youtube.com/watch?v=4RVaJSZ5XG8&#34;&gt;this clip from animator Sergio Pablos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/07db145c83.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Writing the book and trying to capture the ideas when my mind wanders, inspired by &lt;a href=&#34;https://www.youtube.com/watch?v=4RVaJSZ5XG8&#34;&gt;this clip from animator Sergio Pablos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/07db145c83.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/07db145c83.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 54: Blogging motivation</title>
+      <link>https://timetable.manton.org/2017/09/21/episode-blogging-motivation.html</link>
+      <pubDate>Thu, 21 Sep 2017 19:10:26 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/21/episode-blogging-motivation.html</guid>
+      <description>&lt;p&gt;I reflect on wrapping up working from Mozart&amp;#8217;s Coffee and motivation on the drive home.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/616359ba3f.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I reflect on wrapping up working from Mozart&amp;#8217;s Coffee and motivation on the drive home.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/616359ba3f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I reflect on wrapping up working from Mozart&amp;#8217;s Coffee and motivation on the drive home.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/616359ba3f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/616359ba3f.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 53: One page at a time</title>
+      <link>https://timetable.manton.org/2017/09/20/episode-one-page.html</link>
+      <pubDate>Wed, 20 Sep 2017 15:18:09 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/20/episode-one-page.html</guid>
+      <description>&lt;p&gt;Thinking about the format for this microcast, consistently working toward a goal, and a clip from the &lt;a href=&#34;https://overcast.fm/+HDA3QLBGM&#34;&gt;With Her podcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/8fde8e0c44.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Thinking about the format for this microcast, consistently working toward a goal, and a clip from the &lt;a href=&#34;https://overcast.fm/+HDA3QLBGM&#34;&gt;With Her podcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/8fde8e0c44.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Thinking about the format for this microcast, consistently working toward a goal, and a clip from the &lt;a href=&#34;https://overcast.fm/+HDA3QLBGM&#34;&gt;With Her podcast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/8fde8e0c44.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/8fde8e0c44.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 52: South errands</title>
+      <link>https://timetable.manton.org/2017/09/19/episode-south-errands.html</link>
+      <pubDate>Tue, 19 Sep 2017 14:26:57 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/19/episode-south-errands.html</guid>
+      <description>&lt;p&gt;I drove to south Austin for a mid-morning meeting before catching up on work at a coffee shop.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b3d5e4e8d6.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I drove to south Austin for a mid-morning meeting before catching up on work at a coffee shop.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b3d5e4e8d6.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I drove to south Austin for a mid-morning meeting before catching up on work at a coffee shop.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b3d5e4e8d6.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b3d5e4e8d6.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 51: iPhone X event</title>
+      <link>https://timetable.manton.org/2017/09/12/episode-iphone-x.html</link>
+      <pubDate>Tue, 12 Sep 2017 16:54:50 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/12/episode-iphone-x.html</guid>
+      <description>&lt;p&gt;My first reaction after today&amp;#8217;s Apple event introducing the iPhone X, and work on Micro.blog invites and pins.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5a659fdc24.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;My first reaction after today&amp;#8217;s Apple event introducing the iPhone X, and work on Micro.blog invites and pins.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5a659fdc24.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;My first reaction after today&amp;#8217;s Apple event introducing the iPhone X, and work on Micro.blog invites and pins.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5a659fdc24.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/5a659fdc24.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 50: Version 1.1</title>
+      <link>https://timetable.manton.org/2017/09/11/episode-version.html</link>
+      <pubDate>Mon, 11 Sep 2017 17:03:19 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/11/episode-version.html</guid>
+      <description>&lt;p&gt;Progress on the new version of Micro.blog for iOS before tomorrow&amp;#8217;s Apple event, and sending out more invites.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2f7acab2c0.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Progress on the new version of Micro.blog for iOS before tomorrow&amp;#8217;s Apple event, and sending out more invites.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2f7acab2c0.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Progress on the new version of Micro.blog for iOS before tomorrow&amp;#8217;s Apple event, and sending out more invites.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2f7acab2c0.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/2f7acab2c0.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 49: Homebrew Website Club</title>
+      <link>https://timetable.manton.org/2017/09/06/episode-homebrew-website.html</link>
+      <pubDate>Wed, 06 Sep 2017 14:03:59 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/06/episode-homebrew-website.html</guid>
+      <description>&lt;p&gt;Tonight we&amp;#8217;re starting up a local Homebrew Website Club for Austin. Check out the &lt;a href=&#34;http://www.manton.org/2017/09/homebrew-website-club.html&#34;&gt;details here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/860d777082.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Tonight we&amp;#8217;re starting up a local Homebrew Website Club for Austin. Check out the &lt;a href=&#34;http://www.manton.org/2017/09/homebrew-website-club.html&#34;&gt;details here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/860d777082.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Tonight we&amp;#8217;re starting up a local Homebrew Website Club for Austin. Check out the &lt;a href=&#34;http://www.manton.org/2017/09/homebrew-website-club.html&#34;&gt;details here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/860d777082.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/860d777082.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 48: Polarizing</title>
+      <link>https://timetable.manton.org/2017/09/05/episode-polarizing.html</link>
+      <pubDate>Tue, 05 Sep 2017 15:13:37 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/05/episode-polarizing.html</guid>
+      <description>&lt;p&gt;Why it&amp;#8217;s a good thing if the first reaction to a new idea is polarizing, inspired by an episode of &lt;a href=&#34;http://www.npr.org/podcasts/510313/how-i-built-this&#34;&gt;How I Built This&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f0dbc1190a.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Why it&amp;#8217;s a good thing if the first reaction to a new idea is polarizing, inspired by an episode of &lt;a href=&#34;http://www.npr.org/podcasts/510313/how-i-built-this&#34;&gt;How I Built This&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f0dbc1190a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Why it&amp;#8217;s a good thing if the first reaction to a new idea is polarizing, inspired by an episode of &lt;a href=&#34;http://www.npr.org/podcasts/510313/how-i-built-this&#34;&gt;How I Built This&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f0dbc1190a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/f0dbc1190a.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 47: Dogfooding</title>
+      <link>https://timetable.manton.org/2017/09/01/episode-dogfooding.html</link>
+      <pubDate>Fri, 01 Sep 2017 11:51:16 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/09/01/episode-dogfooding.html</guid>
+      <description>&lt;p&gt;About my decision to move manton.org from WordPress to Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9043fb10e9.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;About my decision to move manton.org from WordPress to Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9043fb10e9.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;About my decision to move manton.org from WordPress to Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/9043fb10e9.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/9043fb10e9.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 46: No one is coming</title>
+      <link>https://timetable.manton.org/2017/08/15/episode-no-one.html</link>
+      <pubDate>Tue, 15 Aug 2017 14:13:47 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/08/15/episode-no-one.html</guid>
+      <description>&lt;p&gt;Back again after a long break. On this episode, I talk about Harry Potter and the mistake of thinking another developer is going to fix my code later.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6f4619c3b6.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Back again after a long break. On this episode, I talk about Harry Potter and the mistake of thinking another developer is going to fix my code later.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6f4619c3b6.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Back again after a long break. On this episode, I talk about Harry Potter and the mistake of thinking another developer is going to fix my code later.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6f4619c3b6.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/6f4619c3b6.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 45: Launch week</title>
+      <link>https://timetable.manton.org/2017/04/25/episode-launch-week.html</link>
+      <pubDate>Tue, 25 Apr 2017 21:09:45 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/04/25/episode-launch-week.html</guid>
+      <description>&lt;p&gt;I&amp;#8217;m rolling out early access to Micro.blog this week. I talk about how the first 2 days have gone, mistakes with TestFlight, and what to do next.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7bce8627e4.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I&amp;#8217;m rolling out early access to Micro.blog this week. I talk about how the first 2 days have gone, mistakes with TestFlight, and what to do next.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7bce8627e4.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I&amp;#8217;m rolling out early access to Micro.blog this week. I talk about how the first 2 days have gone, mistakes with TestFlight, and what to do next.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7bce8627e4.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/7bce8627e4.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 44: Disappoint some people</title>
+      <link>https://timetable.manton.org/2017/04/20/episode-disappoint-some.html</link>
+      <pubDate>Thu, 20 Apr 2017 12:59:09 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/04/20/episode-disappoint-some.html</guid>
+      <description>&lt;p&gt;I look back at Katy Perry&amp;#8217;s performance at the Grammys. Why it&amp;#8217;s okay to make a political statement and risk disappointing some fans.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3404ecf3a.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I look back at Katy Perry&amp;#8217;s performance at the Grammys. Why it&amp;#8217;s okay to make a political statement and risk disappointing some fans.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3404ecf3a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I look back at Katy Perry&amp;#8217;s performance at the Grammys. Why it&amp;#8217;s okay to make a political statement and risk disappointing some fans.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c3404ecf3a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/c3404ecf3a.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 43: Default themes</title>
+      <link>https://timetable.manton.org/2017/04/18/episode-default-themes.html</link>
+      <pubDate>Tue, 18 Apr 2017 14:24:39 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/04/18/episode-default-themes.html</guid>
+      <description>&lt;p&gt;Finalizing the default themes for Micro.blog, why they&amp;#8217;re based on Jekyll, and a thousand beta testers.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fe10da1b0a.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Finalizing the default themes for Micro.blog, why they&amp;#8217;re based on Jekyll, and a thousand beta testers.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fe10da1b0a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Finalizing the default themes for Micro.blog, why they&amp;#8217;re based on Jekyll, and a thousand beta testers.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fe10da1b0a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/fe10da1b0a.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 42: Officially announced</title>
+      <link>https://timetable.manton.org/2017/04/17/episode-officially-announced.html</link>
+      <pubDate>Mon, 17 Apr 2017 18:34:14 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/04/17/episode-officially-announced.html</guid>
+      <description>&lt;p&gt;Today I sent a Kickstarter update about the rollout date. I also talk about the invite code system, the book, and stickers.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0813363b9f.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Today I sent a Kickstarter update about the rollout date. I also talk about the invite code system, the book, and stickers.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0813363b9f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Today I sent a Kickstarter update about the rollout date. I also talk about the invite code system, the book, and stickers.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0813363b9f.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/0813363b9f.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 41: Final rollout date</title>
+      <link>https://timetable.manton.org/2017/04/14/episode-final-rollout.html</link>
+      <pubDate>Fri, 14 Apr 2017 22:11:02 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/04/14/episode-final-rollout.html</guid>
+      <description>&lt;p&gt;Wrapping up a busy week, I realize there&amp;#8217;s too much going on to start the Micro.blog rollout next week. It will be the following week, April 24th.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/40873cef8a.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Wrapping up a busy week, I realize there&amp;#8217;s too much going on to start the Micro.blog rollout next week. It will be the following week, April 24th.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/40873cef8a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Wrapping up a busy week, I realize there&amp;#8217;s too much going on to start the Micro.blog rollout next week. It will be the following week, April 24th.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/40873cef8a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/40873cef8a.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 40: Just the basics</title>
+      <link>https://timetable.manton.org/2017/04/13/episode-just-the.html</link>
+      <pubDate>Thu, 13 Apr 2017 17:49:52 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/04/13/episode-just-the.html</guid>
+      <description>&lt;p&gt;Picking up hamburgers for lunch and talking about keeping the iPhone app simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e426545504.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Picking up hamburgers for lunch and talking about keeping the iPhone app simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e426545504.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Picking up hamburgers for lunch and talking about keeping the iPhone app simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e426545504.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/e426545504.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 39: Handling mistakes</title>
+      <link>https://timetable.manton.org/2017/04/12/episode-handling-mistakes.html</link>
+      <pubDate>Wed, 12 Apr 2017 14:32:39 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/04/12/episode-handling-mistakes.html</guid>
+      <description>&lt;p&gt;I start with a clip from the Oscars, then talk about my repeated mistake over-promising on the Micro.blog rollout schedule.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/006fb76666.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I start with a clip from the Oscars, then talk about my repeated mistake over-promising on the Micro.blog rollout schedule.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/006fb76666.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I start with a clip from the Oscars, then talk about my repeated mistake over-promising on the Micro.blog rollout schedule.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/006fb76666.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/006fb76666.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 38: Season 2</title>
+      <link>https://timetable.manton.org/2017/04/11/episode-season.html</link>
+      <pubDate>Tue, 11 Apr 2017 14:56:59 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/04/11/episode-season.html</guid>
+      <description>&lt;p&gt;It&amp;#8217;s a rainy week in Austin. I catch up on the progress for Micro.blog and some thoughts on the bigger picture for where it&amp;#8217;s going.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5c4efab549.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;It&amp;#8217;s a rainy week in Austin. I catch up on the progress for Micro.blog and some thoughts on the bigger picture for where it&amp;#8217;s going.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5c4efab549.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;It&amp;#8217;s a rainy week in Austin. I catch up on the progress for Micro.blog and some thoughts on the bigger picture for where it&amp;#8217;s going.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5c4efab549.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/5c4efab549.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 37: Next steps</title>
+      <link>https://timetable.manton.org/2017/02/07/episode-next-steps.html</link>
+      <pubDate>Tue, 07 Feb 2017 12:14:38 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/02/07/episode-next-steps.html</guid>
+      <description>&lt;p&gt;Now that the Kickstarter campaign has wrapped up, I move to the next phase of getting Micro.blog ready, planning for invites, and focusing on the Slack community.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b17d4c5a0e.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Now that the Kickstarter campaign has wrapped up, I move to the next phase of getting Micro.blog ready, planning for invites, and focusing on the Slack community.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b17d4c5a0e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Now that the Kickstarter campaign has wrapped up, I move to the next phase of getting Micro.blog ready, planning for invites, and focusing on the Slack community.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b17d4c5a0e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b17d4c5a0e.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 36: Stretch goals</title>
+      <link>https://timetable.manton.org/2017/01/17/episode-stretch-goals.html</link>
+      <pubDate>Tue, 17 Jan 2017 12:45:49 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/01/17/episode-stretch-goals.html</guid>
+      <description>&lt;p&gt;Recent thoughts on App.net shutting down and details about why I added a stretch goal to my Kickstarter campaign.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2470927063.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Recent thoughts on App.net shutting down and details about why I added a stretch goal to my Kickstarter campaign.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2470927063.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Recent thoughts on App.net shutting down and details about why I added a stretch goal to my Kickstarter campaign.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2470927063.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/2470927063.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 35: Kickstarter optimism</title>
+      <link>https://timetable.manton.org/2017/01/10/episode-kickstarter-optimism.html</link>
+      <pubDate>Tue, 10 Jan 2017 11:19:32 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/01/10/episode-kickstarter-optimism.html</guid>
+      <description>&lt;p&gt;A week after launching the Kickstarter, I talk about its success so far and why I believe I can build &lt;a href=&#34;http://micro.blog/&#34;&gt;Micro.blog&lt;/a&gt;, with &lt;a href=&#34;https://www.youtube.com/watch?v=8DgUeCpXtqE&#34;&gt;a clip about optimism from Gary Vaynerchuk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/98082cca5b.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;A week after launching the Kickstarter, I talk about its success so far and why I believe I can build &lt;a href=&#34;http://micro.blog/&#34;&gt;Micro.blog&lt;/a&gt;, with &lt;a href=&#34;https://www.youtube.com/watch?v=8DgUeCpXtqE&#34;&gt;a clip about optimism from Gary Vaynerchuk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/98082cca5b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;A week after launching the Kickstarter, I talk about its success so far and why I believe I can build &lt;a href=&#34;http://micro.blog/&#34;&gt;Micro.blog&lt;/a&gt;, with &lt;a href=&#34;https://www.youtube.com/watch?v=8DgUeCpXtqE&#34;&gt;a clip about optimism from Gary Vaynerchuk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/98082cca5b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/98082cca5b.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 34: Launching tomorrow</title>
+      <link>https://timetable.manton.org/2017/01/01/episode-launching-tomorrow.html</link>
+      <pubDate>Sun, 01 Jan 2017 18:27:13 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2017/01/01/episode-launching-tomorrow.html</guid>
+      <description>&lt;p&gt;Happy New Year! I talk about the first day of the year, and the final day to finish my Kickstarter project for Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fd18f383ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Happy New Year! I talk about the first day of the year, and the final day to finish my Kickstarter project for Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fd18f383ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Happy New Year! I talk about the first day of the year, and the final day to finish my Kickstarter project for Micro.blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fd18f383ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/fd18f383ee.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 33: Kickstarter launch review</title>
+      <link>https://timetable.manton.org/2016/12/26/episode-kickstarter-launch.html</link>
+      <pubDate>Mon, 26 Dec 2016 10:04:04 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/12/26/episode-kickstarter-launch.html</guid>
+      <description>&lt;p&gt;The morning after Christmas, I give a quick update on Micro.blog plans and Kickstarter&amp;#8217;s Launch Now review feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2c89cbc96e.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;The morning after Christmas, I give a quick update on Micro.blog plans and Kickstarter&amp;#8217;s Launch Now review feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2c89cbc96e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;The morning after Christmas, I give a quick update on Micro.blog plans and Kickstarter&amp;#8217;s Launch Now review feature.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/2c89cbc96e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/2c89cbc96e.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 32: Super Mario Run</title>
+      <link>https://timetable.manton.org/2016/12/16/episode-super-mario.html</link>
+      <pubDate>Fri, 16 Dec 2016 10:18:09 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/12/16/episode-super-mario.html</guid>
+      <description>&lt;p&gt;I share some thoughts on the first day of Super Mario Run and how my work week is wrapping up.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fc682d5b24.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I share some thoughts on the first day of Super Mario Run and how my work week is wrapping up.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fc682d5b24.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I share some thoughts on the first day of Super Mario Run and how my work week is wrapping up.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fc682d5b24.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/fc682d5b24.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 31: Getting out there</title>
+      <link>https://timetable.manton.org/2016/12/12/episode-getting-out.html</link>
+      <pubDate>Mon, 12 Dec 2016 15:29:14 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/12/12/episode-getting-out.html</guid>
+      <description>&lt;p&gt;I try the new WeWork location at the Domain, listen to &lt;a href=&#34;http://www.theaverylogan.com/&#34;&gt;a singer&lt;/a&gt; at the car dealership, and remember that I need to get out to talk to real people about my work.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/8b6af49d14.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I try the new WeWork location at the Domain, listen to &lt;a href=&#34;http://www.theaverylogan.com/&#34;&gt;a singer&lt;/a&gt; at the car dealership, and remember that I need to get out to talk to real people about my work.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/8b6af49d14.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I try the new WeWork location at the Domain, listen to &lt;a href=&#34;http://www.theaverylogan.com/&#34;&gt;a singer&lt;/a&gt; at the car dealership, and remember that I need to get out to talk to real people about my work.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/8b6af49d14.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/8b6af49d14.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 30: November question</title>
+      <link>https://timetable.manton.org/2016/12/09/episode-november-question.html</link>
+      <pubDate>Fri, 09 Dec 2016 13:11:02 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/12/09/episode-november-question.html</guid>
+      <description>&lt;p&gt;From a listener question, I talk about steps in November to wrap up old projects and finish new ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/87cd36c738.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;From a listener question, I talk about steps in November to wrap up old projects and finish new ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/87cd36c738.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;From a listener question, I talk about steps in November to wrap up old projects and finish new ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/87cd36c738.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/87cd36c738.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 29: Dot blog</title>
+      <link>https://timetable.manton.org/2016/11/25/episode-dot-blog.html</link>
+      <pubDate>Fri, 25 Nov 2016 09:25:28 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/11/25/episode-dot-blog.html</guid>
+      <description>&lt;p&gt;I got a new domain! I talk about the .blog registration process and my evolving plans.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b8a855c624.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I got a new domain! I talk about the .blog registration process and my evolving plans.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b8a855c624.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I got a new domain! I talk about the .blog registration process and my evolving plans.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b8a855c624.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b8a855c624.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 28: Work soundtrack</title>
+      <link>https://timetable.manton.org/2016/11/18/episode-work-soundtrack.html</link>
+      <pubDate>Fri, 18 Nov 2016 17:16:06 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/11/18/episode-work-soundtrack.html</guid>
+      <description>&lt;p&gt;Not enough sleep yet still focused on getting work done. I review today&amp;#8217;s blog post and play a clip from the Moana soundtrack.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/14d901ac33.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Not enough sleep yet still focused on getting work done. I review today&amp;#8217;s blog post and play a clip from the Moana soundtrack.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/14d901ac33.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Not enough sleep yet still focused on getting work done. I review today&amp;#8217;s blog post and play a clip from the Moana soundtrack.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/14d901ac33.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/14d901ac33.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 27: Something was missing</title>
+      <link>https://timetable.manton.org/2016/11/15/episode-something-was.html</link>
+      <pubDate>Tue, 15 Nov 2016 18:10:23 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/11/15/episode-something-was.html</guid>
+      <description>&lt;p&gt;One week after the election, I react to Apple&amp;#8217;s design book announcement and talk about why social networks may be broken.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6bbe377207.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;One week after the election, I react to Apple&amp;#8217;s design book announcement and talk about why social networks may be broken.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6bbe377207.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;One week after the election, I react to Apple&amp;#8217;s design book announcement and talk about why social networks may be broken.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6bbe377207.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/6bbe377207.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 26: Losing a week</title>
+      <link>https://timetable.manton.org/2016/10/19/episode-losing-a.html</link>
+      <pubDate>Wed, 19 Oct 2016 15:30:29 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/10/19/episode-losing-a.html</guid>
+      <description>&lt;p&gt;I talk about getting derailed with home repairs, the U.S. presidential election, and writing about the Dash controversy.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f343a5f8ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I talk about getting derailed with home repairs, the U.S. presidential election, and writing about the Dash controversy.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f343a5f8ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I talk about getting derailed with home repairs, the U.S. presidential election, and writing about the Dash controversy.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/f343a5f8ee.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/f343a5f8ee.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 25: Tim Duncan</title>
+      <link>https://timetable.manton.org/2016/10/07/episode-tim-duncan.html</link>
+      <pubDate>Fri, 07 Oct 2016 17:33:42 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/10/07/episode-tim-duncan.html</guid>
+      <description>&lt;p&gt;Back after a summer break, on this episode I talk through what we can learn from Tim Duncan&amp;#8217;s incredible 19-year career.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c77eb814ac.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Back after a summer break, on this episode I talk through what we can learn from Tim Duncan&amp;#8217;s incredible 19-year career.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c77eb814ac.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Back after a summer break, on this episode I talk through what we can learn from Tim Duncan&amp;#8217;s incredible 19-year career.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c77eb814ac.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/c77eb814ac.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 24: San Francisco reset</title>
+      <link>https://timetable.manton.org/2016/06/17/episode-san-francisco.html</link>
+      <pubDate>Fri, 17 Jun 2016 18:11:16 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/06/17/episode-san-francisco.html</guid>
+      <description>&lt;p&gt;I summarize my week in San Francisco from the perspective of not just the WWDC technical news and events, but also of using the trip to refocus on my priorities for Riverfold Software.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/bcdd978e83.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I summarize my week in San Francisco from the perspective of not just the WWDC technical news and events, but also of using the trip to refocus on my priorities for Riverfold Software.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/bcdd978e83.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I summarize my week in San Francisco from the perspective of not just the WWDC technical news and events, but also of using the trip to refocus on my priorities for Riverfold Software.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/bcdd978e83.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/bcdd978e83.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 23: When a product is over</title>
+      <link>https://timetable.manton.org/2016/05/18/episode-when-a.html</link>
+      <pubDate>Wed, 18 May 2016 11:19:05 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/05/18/episode-when-a.html</guid>
+      <description>&lt;p&gt;I play a clip from the &lt;a href=&#34;http://relay.fm/upgrade/89&#34;&gt;Upgrade podcast&lt;/a&gt; and then talk about my struggle to wind down a product correctly.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0575c53b76.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I play a clip from the &lt;a href=&#34;http://relay.fm/upgrade/89&#34;&gt;Upgrade podcast&lt;/a&gt; and then talk about my struggle to wind down a product correctly.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0575c53b76.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I play a clip from the &lt;a href=&#34;http://relay.fm/upgrade/89&#34;&gt;Upgrade podcast&lt;/a&gt; and then talk about my struggle to wind down a product correctly.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/0575c53b76.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/0575c53b76.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 22: Grumpy about everything</title>
+      <link>https://timetable.manton.org/2016/05/16/episode-grumpy-about.html</link>
+      <pubDate>Mon, 16 May 2016 17:16:09 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/05/16/episode-grumpy-about.html</guid>
+      <description>&lt;p&gt;Last week was stressful. This episode is about being mad at nothing and everything, and why fireflies are magical.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c713c8669b.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Last week was stressful. This episode is about being mad at nothing and everything, and why fireflies are magical.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c713c8669b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Last week was stressful. This episode is about being mad at nothing and everything, and why fireflies are magical.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c713c8669b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/c713c8669b.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 21: The right work balance</title>
+      <link>https://timetable.manton.org/2016/05/04/episode-the-right.html</link>
+      <pubDate>Wed, 04 May 2016 10:46:38 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/05/04/episode-the-right.html</guid>
+      <description>&lt;p&gt;Today I take stock of the last few weeks of client work and recovering from 2 months of focusing so heavily on my personal blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/77b4d77ee9.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Today I take stock of the last few weeks of client work and recovering from 2 months of focusing so heavily on my personal blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/77b4d77ee9.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Today I take stock of the last few weeks of client work and recovering from 2 months of focusing so heavily on my personal blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/77b4d77ee9.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/77b4d77ee9.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 20: Kickstarter rewards</title>
+      <link>https://timetable.manton.org/2016/04/06/episode-kickstarter-rewards.html</link>
+      <pubDate>Wed, 06 Apr 2016 16:01:39 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/04/06/episode-kickstarter-rewards.html</guid>
+      <description>&lt;p&gt;I talk about receiving the &lt;a href=&#34;http://blog.loish.net/&#34;&gt;Loish&lt;/a&gt; art book and my current thoughts on Kickstarter goals and rewards.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6c8490cbfd.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I talk about receiving the &lt;a href=&#34;http://blog.loish.net/&#34;&gt;Loish&lt;/a&gt; art book and my current thoughts on Kickstarter goals and rewards.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6c8490cbfd.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I talk about receiving the &lt;a href=&#34;http://blog.loish.net/&#34;&gt;Loish&lt;/a&gt; art book and my current thoughts on Kickstarter goals and rewards.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6c8490cbfd.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/6c8490cbfd.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 19: Kickstarter recording</title>
+      <link>https://timetable.manton.org/2016/04/05/episode-kickstarter-recording.html</link>
+      <pubDate>Tue, 05 Apr 2016 15:18:11 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/04/05/episode-kickstarter-recording.html</guid>
+      <description>&lt;p&gt;I finally record a video for my Kickstarter project. Now I just need to edit it and do everything else.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/81b72cd551.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I finally record a video for my Kickstarter project. Now I just need to edit it and do everything else.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/81b72cd551.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I finally record a video for my Kickstarter project. Now I just need to edit it and do everything else.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/81b72cd551.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/81b72cd551.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 18: Waiting for the SE</title>
+      <link>https://timetable.manton.org/2016/03/31/episode-waiting-for.html</link>
+      <pubDate>Thu, 31 Mar 2016 11:21:40 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/03/31/episode-waiting-for.html</guid>
+      <description>&lt;p&gt;I&amp;#8217;m playing Nintendo&amp;#8217;s new iPhone app Miitomo, watching my Mii character pace around the room as he (and I) wait for our iPhone SE delivery. Also talk about the library routine and Rails 5.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/845f12faf6.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I&amp;#8217;m playing Nintendo&amp;#8217;s new iPhone app Miitomo, watching my Mii character pace around the room as he (and I) wait for our iPhone SE delivery. Also talk about the library routine and Rails 5.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/845f12faf6.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I&amp;#8217;m playing Nintendo&amp;#8217;s new iPhone app Miitomo, watching my Mii character pace around the room as he (and I) wait for our iPhone SE delivery. Also talk about the library routine and Rails 5.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/845f12faf6.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/845f12faf6.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 17: Spring break</title>
+      <link>https://timetable.manton.org/2016/03/14/episode-spring-break.html</link>
+      <pubDate>Mon, 14 Mar 2016 17:16:12 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/03/14/episode-spring-break.html</guid>
+      <description>&lt;p&gt;It&amp;#8217;s spring break week, which means the kids are out of school and SXSW is taking over downtown.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ab33cd8f18.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;It&amp;#8217;s spring break week, which means the kids are out of school and SXSW is taking over downtown.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ab33cd8f18.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;It&amp;#8217;s spring break week, which means the kids are out of school and SXSW is taking over downtown.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/ab33cd8f18.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/ab33cd8f18.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 16: Don’t panic</title>
+      <link>https://timetable.manton.org/2016/03/11/episode-dont-panic.html</link>
+      <pubDate>Fri, 11 Mar 2016 09:58:02 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/03/11/episode-dont-panic.html</guid>
+      <description>&lt;p&gt;This week I&amp;#8217;m thinking back on how Staple! Expo went over the weekend, and why it never helps to panic when something isn&amp;#8217;t going perfectly to plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5c5947d21b.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;This week I&amp;#8217;m thinking back on how Staple! Expo went over the weekend, and why it never helps to panic when something isn&amp;#8217;t going perfectly to plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5c5947d21b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;This week I&amp;#8217;m thinking back on how Staple! Expo went over the weekend, and why it never helps to panic when something isn&amp;#8217;t going perfectly to plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/5c5947d21b.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/5c5947d21b.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 15: Leap year</title>
+      <link>https://timetable.manton.org/2016/02/29/episode-leap-year.html</link>
+      <pubDate>Mon, 29 Feb 2016 15:25:26 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/02/29/episode-leap-year.html</guid>
+      <description>&lt;p&gt;I reflect on 6 months as an indie, think about stealing time for projects, and plan how I can use working from a coffee shop in the morning to provide a better structure to my day.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/644c22eb5e.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I reflect on 6 months as an indie, think about stealing time for projects, and plan how I can use working from a coffee shop in the morning to provide a better structure to my day.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/644c22eb5e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I reflect on 6 months as an indie, think about stealing time for projects, and plan how I can use working from a coffee shop in the morning to provide a better structure to my day.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/644c22eb5e.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/644c22eb5e.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 14: Coffee writing</title>
+      <link>https://timetable.manton.org/2016/02/27/episode-coffee-writing.html</link>
+      <pubDate>Sat, 27 Feb 2016 18:26:47 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/02/27/episode-coffee-writing.html</guid>
+      <description>&lt;p&gt;At my 10th new coffee shop in as many days, I write a few blog posts. And on this episode I talk about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/502b0b08de.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;At my 10th new coffee shop in as many days, I write a few blog posts. And on this episode I talk about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/502b0b08de.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;At my 10th new coffee shop in as many days, I write a few blog posts. And on this episode I talk about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/502b0b08de.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/502b0b08de.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 13: Luck</title>
+      <link>https://timetable.manton.org/2016/02/23/episode-luck.html</link>
+      <pubDate>Tue, 23 Feb 2016 12:18:39 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/02/23/episode-luck.html</guid>
+      <description>&lt;p&gt;I finally drop the stickers in the mailbox at our neighborhood post office. Thinking this episode about what it means to be lucky.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6a3f5700a3.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I finally drop the stickers in the mailbox at our neighborhood post office. Thinking this episode about what it means to be lucky.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6a3f5700a3.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I finally drop the stickers in the mailbox at our neighborhood post office. Thinking this episode about what it means to be lucky.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6a3f5700a3.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/6a3f5700a3.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 12: Kickstarter music</title>
+      <link>https://timetable.manton.org/2016/02/17/episode-kickstarter-music.html</link>
+      <pubDate>Wed, 17 Feb 2016 11:32:07 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/02/17/episode-kickstarter-music.html</guid>
+      <description>&lt;p&gt;Back from a quick trip to Portland, today I&amp;#8217;m thinking about the music for my Kickstarter project.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/90954e0ff4.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Back from a quick trip to Portland, today I&amp;#8217;m thinking about the music for my Kickstarter project.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/90954e0ff4.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Back from a quick trip to Portland, today I&amp;#8217;m thinking about the music for my Kickstarter project.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/90954e0ff4.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/90954e0ff4.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 11: Timing a launch</title>
+      <link>https://timetable.manton.org/2016/02/11/episode-timing-a.html</link>
+      <pubDate>Thu, 11 Feb 2016 12:45:24 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/02/11/episode-timing-a.html</guid>
+      <description>&lt;p&gt;Back from a sick day or two, I talk today about Twitter&amp;#8217;s algorithmic timeline change and why it would be nice to launch a product when your competitor has some bad news.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c05eb4dfc2.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Back from a sick day or two, I talk today about Twitter&amp;#8217;s algorithmic timeline change and why it would be nice to launch a product when your competitor has some bad news.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c05eb4dfc2.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Back from a sick day or two, I talk today about Twitter&amp;#8217;s algorithmic timeline change and why it would be nice to launch a product when your competitor has some bad news.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c05eb4dfc2.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/c05eb4dfc2.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 10: Planning outside</title>
+      <link>https://timetable.manton.org/2016/02/01/episode-planning-outside.html</link>
+      <pubDate>Mon, 01 Feb 2016 16:07:33 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/02/01/episode-planning-outside.html</guid>
+      <description>&lt;p&gt;I take the iPad Pro and my microphone out to the front porch, to think through what work I need to focus on for today.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6d2894c51a.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I take the iPad Pro and my microphone out to the front porch, to think through what work I need to focus on for today.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6d2894c51a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I take the iPad Pro and my microphone out to the front porch, to think through what work I need to focus on for today.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/6d2894c51a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/6d2894c51a.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 9: Not just an app</title>
+      <link>https://timetable.manton.org/2016/01/29/episode-not-just.html</link>
+      <pubDate>Fri, 29 Jan 2016 15:43:15 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/29/episode-not-just.html</guid>
+      <description>&lt;p&gt;Today I mention the iPhone app rejection, talk about why the iPhone app itself is secondary to the web version, and reveal more about the Kickstarter.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7738d3b8d3.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Today I mention the iPhone app rejection, talk about why the iPhone app itself is secondary to the web version, and reveal more about the Kickstarter.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7738d3b8d3.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Today I mention the iPhone app rejection, talk about why the iPhone app itself is secondary to the web version, and reveal more about the Kickstarter.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/7738d3b8d3.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/7738d3b8d3.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 8: Early start</title>
+      <link>https://timetable.manton.org/2016/01/25/episode-early-start.html</link>
+      <pubDate>Mon, 25 Jan 2016 13:31:59 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/25/episode-early-start.html</guid>
+      <description>&lt;p&gt;Recorded in 3 segments, I set my alarm early this morning to get some coding done before the day starts slipping away.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e804977aa3.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Recorded in 3 segments, I set my alarm early this morning to get some coding done before the day starts slipping away.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e804977aa3.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Recorded in 3 segments, I set my alarm early this morning to get some coding done before the day starts slipping away.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/e804977aa3.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/e804977aa3.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 7: Backup distractions</title>
+      <link>https://timetable.manton.org/2016/01/22/episode-backup-distractions.html</link>
+      <pubDate>Fri, 22 Jan 2016 15:26:46 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/22/episode-backup-distractions.html</guid>
+      <description>&lt;p&gt;This morning I was distracted a little with backups, ordering a new hard drive, and thinking about my iOS app, which was just rejected by Apple.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/62ffb6a389.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;This morning I was distracted a little with backups, ordering a new hard drive, and thinking about my iOS app, which was just rejected by Apple.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/62ffb6a389.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;This morning I was distracted a little with backups, ordering a new hard drive, and thinking about my iOS app, which was just rejected by Apple.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/62ffb6a389.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/62ffb6a389.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 6: Thinking about Kickstarter</title>
+      <link>https://timetable.manton.org/2016/01/19/episode-thinking-about.html</link>
+      <pubDate>Tue, 19 Jan 2016 13:34:17 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/19/episode-thinking-about.html</guid>
+      <description>&lt;p&gt;I start with some thoughts on basketball, my potential Kickstarter campaign, and whether it&amp;#8217;s better to start strong or finish strong. (Go Spurs Go!)&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c314dde7bc.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;I start with some thoughts on basketball, my potential Kickstarter campaign, and whether it&amp;#8217;s better to start strong or finish strong. (Go Spurs Go!)&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c314dde7bc.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;I start with some thoughts on basketball, my potential Kickstarter campaign, and whether it&amp;#8217;s better to start strong or finish strong. (Go Spurs Go!)&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/c314dde7bc.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/c314dde7bc.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 5: Mailing stickers</title>
+      <link>https://timetable.manton.org/2016/01/13/episode-mailing-stickers.html</link>
+      <pubDate>Wed, 13 Jan 2016 11:55:49 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/13/episode-mailing-stickers.html</guid>
+      <description>&lt;p&gt;Today I stopped at the post office to pick up some stamps to mail stickers for the new microblogging app and platform I&amp;#8217;m working on.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/624d1faf7a.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;Today I stopped at the post office to pick up some stamps to mail stickers for the new microblogging app and platform I&amp;#8217;m working on.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/624d1faf7a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;Today I stopped at the post office to pick up some stamps to mail stickers for the new microblogging app and platform I&amp;#8217;m working on.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/624d1faf7a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/624d1faf7a.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 4: Driving downtown</title>
+      <link>https://timetable.manton.org/2016/01/11/episode-driving-downtown.html</link>
+      <pubDate>Mon, 11 Jan 2016 20:32:41 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/11/episode-driving-downtown.html</guid>
+      <description>&lt;p&gt;This morning I was downtown to work at a coffee shop for a few hours before lunch. I talk about getting out of the house and last night&amp;#8217;s icon sketches.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/28f5a65fff.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;This morning I was downtown to work at a coffee shop for a few hours before lunch. I talk about getting out of the house and last night&amp;#8217;s icon sketches.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/28f5a65fff.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;This morning I was downtown to work at a coffee shop for a few hours before lunch. I talk about getting out of the house and last night&amp;#8217;s icon sketches.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/28f5a65fff.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/28f5a65fff.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 3: Friday already</title>
+      <link>https://timetable.manton.org/2016/01/08/episode-friday-already.html</link>
+      <pubDate>Fri, 08 Jan 2016 15:59:47 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/08/episode-friday-already.html</guid>
+      <description>&lt;p&gt;On this episode, I talk about finishing some work and the new iPhone microphone I bought.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b3a7499947.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;On this episode, I talk about finishing some work and the new iPhone microphone I bought.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b3a7499947.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;On this episode, I talk about finishing some work and the new iPhone microphone I bought.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b3a7499947.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b3a7499947.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 2: Naming the podcast</title>
+      <link>https://timetable.manton.org/2016/01/07/episode-naming-the.html</link>
+      <pubDate>Thu, 07 Jan 2016 15:01:52 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/07/episode-naming-the.html</guid>
+      <description>&lt;p&gt;On this episode, I talk about trying tea instead of coffee, how I named this podcast, and my work schedule as I wrap up the week.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b41e76c32a.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;On this episode, I talk about trying tea instead of coffee, how I named this podcast, and my work schedule as I wrap up the week.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b41e76c32a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;On this episode, I talk about trying tea instead of coffee, how I named this podcast, and my work schedule as I wrap up the week.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/b41e76c32a.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/b41e76c32a.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+    <item>
+      <title>Episode 1: Hello</title>
+      <link>https://timetable.manton.org/2016/01/05/episode-hello.html</link>
+      <pubDate>Tue, 05 Jan 2016 21:57:22 -0500</pubDate>
+      
+      <guid isPermaLink="true">https://timetable.manton.org/2016/01/05/episode-hello.html</guid>
+      <description>&lt;p&gt;On the first episode, I introduce the idea behind the show and the topics I hope to cover.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fbfde89bc5.mp3
+&#34; /&gt;&lt;/p&gt;
+</description>
+      <itunes:subtitle>&lt;p&gt;On the first episode, I introduce the idea behind the show and the topics I hope to cover.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fbfde89bc5.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:subtitle>
+      <itunes:summary>&lt;p&gt;On the first episode, I introduce the idea behind the show and the topics I hope to cover.&lt;/p&gt;
+
+&lt;p&gt;&lt;audio controls=&#34;controls&#34; src=&#34;https://timetable.micro.blog/uploads/2018/fbfde89bc5.mp3
+&#34; /&gt;&lt;/p&gt;
+</itunes:summary>
+		
+			<enclosure url="https://timetable.micro.blog/uploads/2018/fbfde89bc5.mp3" type="audio/mpeg"></enclosure>
+		
+    </item>
+    
+  </channel>
+</rss>

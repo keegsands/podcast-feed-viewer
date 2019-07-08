@@ -1,0 +1,20 @@
+{
+    "podcasts": [
+        {
+            "name": "kilobyte",
+            "title": "Kilobyte"
+        },
+        {
+            "name": "atp",
+            "title": "Accidental Tech Podcast"
+        },
+        {
+            "name": "p4fun",
+            "title": "Playing For Fun"
+        },
+        {
+            "name": "timetable",
+            "title": "Timetable"
+        }
+    ]
+}

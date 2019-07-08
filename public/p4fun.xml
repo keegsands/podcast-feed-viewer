@@ -1,0 +1,443 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Playing for Fun</title>
+    <link>https://www.relay.fm/playingforfun</link>
+    <pubDate>Fri, 28 Jun 2019 12:45:00 GMT</pubDate>
+    <description>Listen to two best friends talk about a video game they love. What makes it so special, and hard to put down? They’re only Playing for Fun — so it’s just the good stuff, none of the bad stuff. Hosted by Myke Hurley and Tiffany Arment.</description>
+    <language>en-US</language>
+    <copyright>Copyright © 2019 Relay FM</copyright>
+    <itunes:author>Relay FM</itunes:author>
+    <itunes:keywords>Video, games, tiff, Arment, myke, Hurley, Nintendo, sony, PlayStation, Microsoft, xbox, switch</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    <itunes:owner>
+      <itunes:name>Relay FM</itunes:name>
+      <itunes:email>hello@relay.fm</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <item>
+      <title>Playing for Fun 17: Plants vs. Zombies and World of Goo</title>
+      <description>Tap, tap, drag, place, drag, place, tap tap tap, the zombies are coming! Tap tap, drag, place, drag, place. - the Sign Painter</description>
+      <pubDate>Fri, 28 Jun 2019 12:45:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/Playing_for_Fun_017.mp3" length="38686708" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/17</link>
+      <guid>http://relay.fm/playingforfun/17</guid>
+      <itunes:title>Plants vs. Zombies and World of Goo</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Tap, tap, drag, place, drag, place, tap tap tap, the zombies are coming! Tap tap, drag, place, drag, place. - the Sign Painter</itunes:subtitle>
+      <itunes:summary>Tap, tap, drag, place, drag, place, tap tap tap, the zombies are coming! Tap tap, drag, place, drag, place. - the Sign Painter</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>2386</itunes:duration>
+      <content:encoded>&lt;p&gt;Tap, tap, drag, place, drag, place, tap tap tap, the zombies are coming! Tap tap, drag, place, drag, place. - the Sign Painter&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://burrow.com/playingforfun"&gt;Burrow&lt;/a&gt;: The Luxury Couch for Real Life. Save $75.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes:&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;h5&gt;&lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Plants_vs._Zombies" target="_blank"&gt;Plants vs. Zombies - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://apps.apple.com/us/app/plants-vs-zombies-hd/id893677228" target="_blank"&gt;‎Plants vs. Zombies™ HD on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/World_of_Goo" target="_blank"&gt;World of Goo - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://apps.apple.com/gb/app/world-of-goo/id401301276" target="_blank"&gt;‎World of Goo on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://apps.apple.com/gb/app/bridge-constructor-portal/id1311353234" target="_blank"&gt;‎Bridge Constructor Portal on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://apps.apple.com/gb/app/fieldrunners-for-ipad/id364204209" target="_blank"&gt;‎Fieldrunners for iPad on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Flight_Control_(video_game)" target="_blank"&gt;Flight Control (video game) - Wikipedia&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 16: Minecraft</title>
+      <description>Punch trees, gather wood, craft boards, craft sticks, build crafting table, gather stone, craft a pickaxe, it's getting dark, mine into mountain, gather coal, craft a torch, hear zombie growls, block the entrance of the cave, survive until morning.</description>
+      <pubDate>Sun, 26 May 2019 15:15:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_016.mp3" length="42720584" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/16</link>
+      <guid>http://relay.fm/playingforfun/16</guid>
+      <itunes:title>Minecraft</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Punch trees, gather wood, craft boards, craft sticks, build crafting table, gather stone, craft a pickaxe, it's getting dark, mine into mountain, gather coal, craft a torch, hear zombie growls, block the entrance of the cave, survive until morning.</itunes:subtitle>
+      <itunes:summary>Punch trees, gather wood, craft boards, craft sticks, build crafting table, gather stone, craft a pickaxe, it's getting dark, mine into mountain, gather coal, craft a torch, hear zombie growls, block the entrance of the cave, survive until morning.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>2638</itunes:duration>
+      <content:encoded>&lt;p&gt;Punch trees, gather wood, craft boards, craft sticks, build crafting table, gather stone, craft a pickaxe, it&amp;#39;s getting dark, mine into mountain, gather coal, craft a torch, hear zombie growls, block the entrance of the cave, survive until morning.&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://burrow.com/playingforfun"&gt;Burrow&lt;/a&gt;: The Luxury Couch for Real Life. Save $75.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes:&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;h5&gt;&lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.minecraft.net/en-us/" target="_blank"&gt;Minecraft&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Minecraft" target="_blank"&gt;Minecraft - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.gameinformer.com/2019/05/19/minecraft-has-sold-176-million-copies-worldwide" target="_blank"&gt;Minecraft Has Sold 176 Million Copies Worldwide - Game Informer&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://minecraft.gamepedia.com/Mods/Portal_Gun" target="_blank"&gt;Mods/Portal Gun – Official Minecraft Wiki&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/p/BUSIUAIlpR5/?utm_source=ig_share_sheet&amp;igshid=12hembste6juv" target="_blank"&gt;Cakes on Hudson on Instagram: “Minecrafting with @tiffanyarment”&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/p/BUU1DUSFlkA/?utm_source=ig_share_sheet&amp;igshid=1khypyv4mkrab" target="_blank"&gt;Cakes on Hudson on Instagram: The Finished Minecraft Cake&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://gifwrapped.co/" target="_blank"&gt;GIFwrapped&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/p/BvmeRpIHhd3/" target="_blank"&gt;Playing For Fun on Instagram: Myke and Tiff's Minecraft Skins&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.theincomparable.com/members/" target="_blank"&gt;The Incomparable - Membership&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.theincomparable.com/tpk/" target="_blank"&gt;Total Party Kill - a podcast from The Incomparable&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.twitch.tv/events/ce2gk-UKQu6UVrp1YjQXBg" target="_blank"&gt;Twitch Event: Total Party Kill UK – Session 4&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 15: Pokémon: Let's Go</title>
+      <description>Today's the day, say goodbye to Mum, go meet professor Oak, choose your starter, venture out in to the world, there's a Pidgey! Throw a Poke Ball, waiting, waiting, it's caught! You're on your way to be the very best.</description>
+      <pubDate>Mon, 22 Apr 2019 13:45:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_015.mp3" length="55623724" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/15</link>
+      <guid>http://relay.fm/playingforfun/15</guid>
+      <itunes:title>Pokémon: Let's Go</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Today's the day, say goodbye to Mum, go meet professor Oak, choose your starter, venture out in to the world, there's a Pidgey! Throw a Poke Ball, waiting, waiting, it's caught! You're on your way to be the very best.</itunes:subtitle>
+      <itunes:summary>Today's the day, say goodbye to Mum, go meet professor Oak, choose your starter, venture out in to the world, there's a Pidgey! Throw a Poke Ball, waiting, waiting, it's caught! You're on your way to be the very best.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3445</itunes:duration>
+      <content:encoded>&lt;p&gt;Today&amp;#39;s the day, say goodbye to Mum, go meet professor Oak, choose your starter, venture out in to the world, there&amp;#39;s a Pidgey! Throw a Poke Ball, waiting, waiting, it&amp;#39;s caught! You&amp;#39;re on your way to be the very best.&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://burrow.com/playingforfun"&gt;Burrow&lt;/a&gt;: The Luxury Couch for Real Life. Save $75.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.expressvpn.com/playingforfun"&gt;ExpressVPN&lt;/a&gt;: High-Speed, Secure &amp;amp; Anonymous VPN Service. Get 3 months free with a 1-year package.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes:&lt;/h4&gt; &lt;p&gt;&lt;a href="http://playingformerch.com"&gt;&lt;img src="http://relayfm.s3.amazonaws.com/assets/Playing%20for%20Fun/playingformerch.com.jpg" alt="Buy Our Playas Club Merch!"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5&gt;&lt;a href="http://playingformerch.com"&gt;Buy Our Playas Club Merch!&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;h5&gt;&lt;a rel='payment' href='http://playingformerch.com'&gt;Check Out Our Merch!&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!" target="_blank"&gt;Pokémon: Let's Go, Pikachu! and Let's Go, Eevee! - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)" target="_blank"&gt;Pokémon (video game series) - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/stories/highlights/17993455999186969/" target="_blank"&gt;Tiff's Daily Pokémon Drawings • Instagram&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.theincomparable.com/tpk/" target="_blank"&gt;Total Party Kill - a podcast from The Incomparable&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.theincomparable.com/members/" target="_blank"&gt;The Incomparable Membership&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://pokeballplus.nintendo.com/" target="_blank"&gt;Poké Ball™ Plus&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://swordshield.pokemon.com/en-gb/" target="_blank"&gt;Pokémon Sword and Pokémon Shield&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://cottonbureau.com/people/playing-for-fun" target="_blank"&gt;Playing for Fun Merch on Cotton Bureau&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 14: Half-Life 2</title>
+      <description>Follow the Freeman.</description>
+      <pubDate>Thu, 28 Mar 2019 15:45:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_014.mp3" length="62632194" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/14</link>
+      <guid>http://relay.fm/playingforfun/14</guid>
+      <itunes:title>Half-Life 2</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Follow the Freeman.</itunes:subtitle>
+      <itunes:summary>Follow the Freeman.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3882</itunes:duration>
+      <content:encoded>&lt;p&gt;Follow the Freeman.&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.expressvpn.com/playingforfun"&gt;ExpressVPN&lt;/a&gt;: High-Speed, Secure &amp;amp; Anonymous VPN Service. Get 3 months free with a 1-year package.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://takecareof.com"&gt;Care/Of&lt;/a&gt;: Personalized supplements delivered to your door.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes:&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;h5&gt;&lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Half-Life_2" target="_blank"&gt;Half-Life 2 - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/playlist?list=PLPWKrpEySGul_uXhesu6t7EmoAgCKfcFA" target="_blank"&gt;Our Half-Life 2 Streams - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=BQLEW1c-69c" target="_blank"&gt;Unforeseen Consequences: A Half-Life Documentary - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.twitch.tv/playingforfunfm/clip/GeniusSmilingTroutHoneyBadger?filter=clips&amp;range=all&amp;sort=time" target="_blank"&gt;PlayingForFunFM - It's Pallet and Door! - Twitch&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 13: The Funsies 2019</title>
+      <description>Cast your votes, put on fancy clothes, walk to red carpet, the envelope please...., thank the academy, toast to all the wonderful nominees!</description>
+      <pubDate>Mon, 25 Feb 2019 15:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_013__Funsies.mp3" length="67207340" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/13</link>
+      <guid>http://relay.fm/playingforfun/13</guid>
+      <itunes:title>The Funsies 2019</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Cast your votes, put on fancy clothes, walk to red carpet, the envelope please...., thank the academy, toast to all the wonderful nominees!</itunes:subtitle>
+      <itunes:summary>Cast your votes, put on fancy clothes, walk to red carpet, the envelope please...., thank the academy, toast to all the wonderful nominees!</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>4166</itunes:duration>
+      <content:encoded>&lt;p&gt;Cast your votes, put on fancy clothes, walk to red carpet, the envelope please...., thank the academy, toast to all the wonderful nominees!&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.expressvpn.com/playingforfun"&gt;ExpressVPN&lt;/a&gt;: High-Speed, Secure &amp;amp; Anonymous VPN Service. Get 3 months free with a 1-year package.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://burrow.com/playingforfun"&gt;Burrow&lt;/a&gt;: The Luxury Couch for Real Life. Save $75.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes:&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;h5&gt;&lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.twitch.tv/playingforfunfm/clip/CulturedBitterPepperNerfRedBlaster?filter=clips&amp;range=all&amp;sort=time" target="_blank"&gt;GO! Go You A**! GO! - PlayingForFunFM - Twitch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.twitch.tv/playingforfunfm/clip/CallousInterestingHyenaDancingBaby?filter=clips&amp;range=all&amp;sort=time" target="_blank"&gt;BOOSTIN' - PlayingForFunFM -  Twitch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/theounderstars/" target="_blank"&gt;Theo (@theounderstars) • Instagram photos and videos&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/topfour" target="_blank"&gt;Top Four - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/jellybeansoup/" target="_blank"&gt;Jelly (@jellybeansoup) • Instagram photos and videos&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.twitch.tv/playingforfunfm/clip/TsundereAgileCarabeefPraiseIt?filter=clips&amp;range=all&amp;sort=time" target="_blank"&gt;We want to ride a beefalo! - PlayingForFunFM - Twitch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://relayfm.s3.amazonaws.com/assets/Playing%20for%20Fun/2019%20Funsies/Special%20Category%20Winners.jpg" target="_blank"&gt;SPOILERS – Special Category Winners&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://relayfm.s3.amazonaws.com/assets/Playing%20for%20Fun/2019%20Funsies/Our%20Top%204%20Winners.jpg" target="_blank"&gt;SPOILERS – Our Top 4 Winners&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 12: The Jackbox Party Pack</title>
+      <description>Choose a pack, open browser, enter code, answer the questions, be funny, draw fast, Hurry! time is running out!, submit answer, LOL with your friends.</description>
+      <pubDate>Mon, 28 Jan 2019 14:45:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_12.mp3" length="44988219" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/12</link>
+      <guid>http://relay.fm/playingforfun/12</guid>
+      <itunes:title>The Jackbox Party Pack</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Choose a pack, open browser, enter code, answer the questions, be funny, draw fast, Hurry! time is running out!, submit answer, LOL with your friends.</itunes:subtitle>
+      <itunes:summary>Choose a pack, open browser, enter code, answer the questions, be funny, draw fast, Hurry! time is running out!, submit answer, LOL with your friends.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>2793</itunes:duration>
+      <content:encoded>&lt;p&gt;Choose a pack, open browser, enter code, answer the questions, be funny, draw fast, Hurry! time is running out!, submit answer, LOL with your friends.&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.expressvpn.com/playingforfun"&gt;ExpressVPN&lt;/a&gt;: High-Speed, Secure &amp;amp; Anonymous VPN Service. Get 3 months free with a 1-year package.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://takecareof.com"&gt;Care/Of&lt;/a&gt;: Personalized supplements delivered to your door.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeoNy6l4FKAdi_-0jy0HqrWFLqlYSZivc4lUkIvz2zxcR9mcA/viewform"&gt;Tell us your favourite Playing for Fun game for the first ever Funsies!&lt;/a&gt;&lt;/h4&gt;
+ &lt;h5&gt;&lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://jackboxgames.com/" target="_blank"&gt;Jackbox Games&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack" target="_blank"&gt;The Jackbox Party Pack - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.podcon.com/" target="_blank"&gt;PodCon 2&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://hellofromthemagictavern.com/" target="_blank"&gt;Hello from the Magic Tavern&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=ff5H3S_AgJA&amp;t=7152s" target="_blank"&gt;Our Jackbox Stream – YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/p/BrxhzJ-gpMD/" target="_blank"&gt;The Playing for Fun Holiday Card – Instagram&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/topfour" target="_blank"&gt;Top Four - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://games.jackbox.tv/artifact/OverdrawnGame/ANEd4H7UCQgAlnXjLHV8NkdE0AYzMUFr/" target="_blank"&gt;Our Civic Doodle Gallery – 1&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://games.jackbox.tv/artifact/OverdrawnGame/STjFiPyh7jUi0GB2RR8FU0VK0AYzRm2y/" target="_blank"&gt;Our Civic Doodle Gallery – 2&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 11: Half-Life</title>
+      <description>Equip HEV suit, equip crowbar, kill headcrab, climb ladder, fall off ladder, major lacerations detected, climb ladder again, jump, jump, pick-up magnum, shoot zombie scientist, shoot bull squid, refill health, talk to Barney — oh no! They killed Barney! — crawl through ducts, headcrabs! Shoot shoot shoot, ammunition depleted, equip crowbar.</description>
+      <pubDate>Mon, 17 Dec 2018 13:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_011.mp3" length="51180577" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/11</link>
+      <guid>http://relay.fm/playingforfun/11</guid>
+      <itunes:title>Half-Life</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Equip crowbar, kill headcrab, climb ladder, fall off ladder, lacerations detected, climb ladder again, pick-up magnum, shoot zombie scientist, refill health, talk to Barney — They killed Barney! — headcrabs! Shoot, ammunition depleted, equip crowbar.</itunes:subtitle>
+      <itunes:summary>Equip crowbar, kill headcrab, climb ladder, fall off ladder, lacerations detected, climb ladder again, pick-up magnum, shoot zombie scientist, refill health, talk to Barney — They killed Barney! — headcrabs! Shoot, ammunition depleted, equip crowbar.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3145</itunes:duration>
+      <content:encoded>&lt;p&gt;Equip HEV suit, equip crowbar, kill headcrab, climb ladder, fall off ladder, major lacerations detected, climb ladder again, jump, jump, pick-up magnum, shoot zombie scientist, shoot bull squid, refill health, talk to Barney — oh no! They killed Barney! — crawl through ducts, headcrabs! Shoot shoot shoot, ammunition depleted, equip crowbar.&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://takecareof.com"&gt;Care/Of&lt;/a&gt;: Personalized supplements delivered to your door.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Half-Life_(video_game)" target="_blank"&gt;Half-Life (video game) - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=BQLEW1c-69c&amp;feature=youtu.be" target="_blank"&gt;Unforeseen Consequences: A Half-Life Documentary - Noclip - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Black_Mesa_(video_game)" target="_blank"&gt;Black Mesa (video game) - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/jellybeansoup" target="_blank"&gt;Jelly (@jellybeansoup) | Twitter&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 10: Mario and Rabbids: Kingdom Battle</title>
+      <description>Battle HQ, select team, buy weapon, equip weapon, increase skills, Fight! Move, team jump, shoot, activate royal gaze, switch hero, shoot, collect coins, move, hide, switch hero, move, hit, hide, shoot, CRITICAL Honey! Battle Cleared!</description>
+      <pubDate>Wed, 14 Nov 2018 13:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_10.mp3" length="49062619" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/10</link>
+      <guid>http://relay.fm/playingforfun/10</guid>
+      <itunes:title>Mario and Rabbids: Kingdom Battle</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Battle HQ, select team, buy weapon, equip weapon, increase skills, Fight! Move, team jump, shoot, activate royal gaze, switch hero, shoot, collect coins, move, hide, switch hero, move, hit, hide, shoot, CRITICAL Honey! Battle Cleared!</itunes:subtitle>
+      <itunes:summary>Battle HQ, select team, buy weapon, equip weapon, increase skills, Fight! Move, team jump, shoot, activate royal gaze, switch hero, shoot, collect coins, move, hide, switch hero, move, hit, hide, shoot, CRITICAL Honey! Battle Cleared!</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3021</itunes:duration>
+      <content:encoded>&lt;p&gt;Battle HQ, select team, buy weapon, equip weapon, increase skills, Fight! Move, team jump, shoot, activate royal gaze, switch hero, shoot, collect coins, move, hide, switch hero, move, hit, hide, shoot, CRITICAL Honey! Battle Cleared!&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://simplecontacts.com/playingforfun"&gt;Simple Contacts&lt;/a&gt;: Contact lens prescriptions from home: Use offer code PLAYINGFORFUN for $20 off your first order of contact lenses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt; &lt;h5&gt;&lt;a href="https://www.nintendo.com/games/detail/mario-rabbids-kingdom-battle-switch" target="_blank"&gt;Mario + Rabbids Kingdom Battle for Nintendo Switch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Kingdom_Battle" target="_blank"&gt;Mario + Rabbids Kingdom Battle - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=Hj8UWx1dxXs&amp;feature=youtu.be" target="_blank"&gt;Mario + Rabbids Kingdom Battle: Recap E3 2017 - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Worms_(series)" target="_blank"&gt;Worms (series) - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/MoonBase_Commander" target="_blank"&gt;MoonBase Commander - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/topfour/1" target="_blank"&gt;Top Four #1: Video Games - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=9z9fmVhWTzs" target="_blank"&gt;Opening the Pusheen Fall Box - Buying for Fun - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.mariowiki.com/Mario_%2B_Rabbids_Kingdom_Battle" target="_blank"&gt;Mario + Rabbids Kingdom Battle - Super Mario Wiki, the Mario encyclopedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.mariowiki.com/List_of_weapons_in_Mario_%2B_Rabbids_Kingdom_Battle" target="_blank"&gt;List of weapons in Mario + Rabbids Kingdom Battle - Super Mario Wiki, the Mario encyclopedia&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 9: Splatoon 2</title>
+      <description>Join team, run, paint, splat, jump, swim, danger, escape, paint, swim, restart, paint, paint, paint, last minute, paint faster, nervously wait, victory!</description>
+      <pubDate>Tue, 02 Oct 2018 21:30:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_009.mp3" length="52329224" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/9</link>
+      <guid>http://relay.fm/playingforfun/9</guid>
+      <itunes:title>Splatoon 2</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Join team, run, paint, splat, jump, swim, danger, escape, paint, swim, restart, paint, paint, paint, last minute, paint faster, nervously wait, victory!</itunes:subtitle>
+      <itunes:summary>Join team, run, paint, splat, jump, swim, danger, escape, paint, swim, restart, paint, paint, paint, last minute, paint faster, nervously wait, victory!</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3229</itunes:duration>
+      <content:encoded>&lt;p&gt;Join team, run, paint, splat, jump, swim, danger, escape, paint, swim, restart, paint, paint, paint, last minute, paint faster, nervously wait, victory!&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.chegg.com/playingforfun"&gt;Chegg&lt;/a&gt;: Study smarter, not harder. Get $5 off your first month’s subscription with promo code ‘playingforfun’.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt; &lt;h5&gt;&lt;a href="https://splatoon.nintendo.com/" target="_blank"&gt;Splatoon 2 for Nintendo Switch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Splatoon" target="_blank"&gt;Splatoon - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://inktober.com/" target="_blank"&gt;Inktober&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/jellybeansoup" target="_blank"&gt;Jelly (@jellybeansoup) — Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/p/Bn4lr6xgsSD/" target="_blank"&gt;Jelly's Stardew Art – Playing For Fun (@playingforfunfm) • Instagram&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/p/BocgEcrFFeg/" target="_blank"&gt;Jelly's Splatoon Art – Playing For Fun (@playingforfunfm) • Instagram&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://splatoonwiki.org/wiki/List_of_Weapons_in_Splatoon_2" target="_blank"&gt;List of Weapons in Splatoon 2 - Inkipedia, the Splatoon wiki&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://splatoon.nintendo.com/amiibo/" target="_blank"&gt;amiibo for Splatoon 2&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 8: Stardew Valley</title>
+      <description>Wake up. Water plants. Harvest crops. Sell crops. Collect eggs. Make mayonnaise. Milk the cows. Mine some copper. Smelt copper bar. Go to blacksmith. Open geode. Donate to museum. Give a gift to Abigail. Go fishing. Go out to the pub. Talk to some friends. Walk home. Go to bed. Do it all again tomorrow.</description>
+      <pubDate>Tue, 18 Sep 2018 10:30:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_008.mp3" length="48869806" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/8</link>
+      <guid>http://relay.fm/playingforfun/8</guid>
+      <itunes:title>Stardew Valley</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Wake up. Water plants. Harvest crops. Sell crops. Collect eggs. Milk the cows. Mine some copper. Go to blacksmith. Open geode. Give a gift to Abigail. Go fishing. Go out to the pub. Talk to some friends. Walk home. Go to bed. Do it all again tomorrow.</itunes:subtitle>
+      <itunes:summary>Wake up. Water plants. Harvest crops. Sell crops. Collect eggs. Milk the cows. Mine some copper. Go to blacksmith. Open geode. Give a gift to Abigail. Go fishing. Go out to the pub. Talk to some friends. Walk home. Go to bed. Do it all again tomorrow.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3001</itunes:duration>
+      <content:encoded>&lt;p&gt;Wake up. Water plants. Harvest crops. Sell crops. Collect eggs. Make mayonnaise. Milk the cows. Mine some copper. Smelt copper bar. Go to blacksmith. Open geode. Donate to museum. Give a gift to Abigail. Go fishing. Go out to the pub. Talk to some friends. Walk home. Go to bed. Do it all again tomorrow.&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://warbyparker.com/playingforfun"&gt;Warby Parker&lt;/a&gt;: Quality eyewear at a fraction of the usual price. Order your FREE Home Try-On kit today&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;a rel='payment' href='https://relayfm.memberful.com/checkout?plan=27451'&gt;Support Playing for Fun with a Relay FM Membership&lt;/a&gt; &lt;h5&gt;&lt;a href="https://stardewvalley.net/" target="_blank"&gt;Stardew Valley&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/topfour/34" target="_blank"&gt;Top Four #34: Stardew Valley Singles - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.gq.com/story/stardew-valley-eric-barone-profile" target="_blank"&gt;Valley Forged: How One Man Made the Indie Video Game Sensation 'Stardew Valley' | GQ&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://stardewvalleywiki.com/Multiplayer" target="_blank"&gt;Multiplayer - Stardew Valley Wiki&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/RoundSpunkyButterflyTheTarFu" target="_blank"&gt;Fighting for Abigail's Love - Twitch Clip&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/QuaintCaringPonyAliens" target="_blank"&gt;Myke Traps Tiff - Twitch Clip&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 7: The Legend of Zelda: Breath of the Wild</title>
+      <description>Walk, fight, take Bokoblin horn, open chest, walk, climb, climb, walk, take traveler’s sword, take Hylian Shroom, take apple, pick up rock, discover a Korok! walk, run, walk, climb, jump, glide, walk, cook mushroom skewer, sit by the fire until morning.</description>
+      <pubDate>Wed, 22 Aug 2018 13:30:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_007.mp3" length="86087716" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/7</link>
+      <guid>http://relay.fm/playingforfun/7</guid>
+      <itunes:title>The Legend of Zelda: Breath of the Wild</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Walk, fight, take Bokoblin horn, open chest, walk, climb, climb, walk, take traveler’s sword, take Hylian Shroom, take apple, pick up rock, discover a Korok! walk, run, walk, climb, jump, glide, walk, cook mushroom skewer, sit by the fire until morning.</itunes:subtitle>
+      <itunes:summary>Walk, fight, take Bokoblin horn, open chest, walk, climb, climb, walk, take traveler’s sword, take Hylian Shroom, take apple, pick up rock, discover a Korok! walk, run, walk, climb, jump, glide, walk, cook mushroom skewer, sit by the fire until morning.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>5348</itunes:duration>
+      <content:encoded>&lt;p&gt;Walk, fight, take Bokoblin horn, open chest, walk, climb, climb, walk, take traveler’s sword, take Hylian Shroom, take apple, pick up rock, discover a Korok! walk, run, walk, climb, jump, glide, walk, cook mushroom skewer, sit by the fire until morning.&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://casper.com/playingforfun"&gt;Casper&lt;/a&gt;: The Internet’s favourite mattress. Get $50 off select mattresses with the code ‘PLAYINGFORFUN’.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://awaytravel.com/playingforfun"&gt;Away&lt;/a&gt;: Travel smarter with the suitcase that charges your phone. Get $20 off with the code ‘playingforfun’.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;h5&gt;&lt;a href="https://www.zelda.com/breath-of-the-wild/" target="_blank"&gt;The Legend of Zelda: Breath of the Wild - Nintendo&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Legend_of_Zelda" target="_blank"&gt;The Legend of Zelda (Video Game Series) - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/p/BMMlGmllNE3/?taken-by=tiffanyarment" target="_blank"&gt;Adam Arment as Link - Instagram&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=MK6ub-Z7snI&amp;feature=youtu.be" target="_blank"&gt;Hyrule Myths - Can You Beat Breath of the Wild Without Climbing? - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/topfour/34" target="_blank"&gt;Top Four #34: Stardew Valley Singles - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.avclub.com/we-re-pleased-to-inform-you-that-zelda-is-actually-the-1821464328" target="_blank"&gt;We’re pleased to inform you that Zelda is actually the boy - AV Club&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/playlist?list=PLFwObPlg7Y1pnZVEKHOE6QW66XZacCFxY" target="_blank"&gt;The Legend of Zelda: Breath of the Wild Official Soundtrack [Full OST] - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.theverge.com/2017/3/9/14868814/zelda-breath-of-the-wild-secret-island-quest" target="_blank"&gt;My favorite Breath of the Wild moment condenses the entire game to a single island - The Verge&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 6: Don't Starve</title>
+      <description>Pick grass, pick berries, gather sticks, avoid spider, eat berries, gather flint, craft ax, chop wood, BEES! Pick carrot, eat carrot, craft torch, keep away darkness, wait until morning, locate the beefalo, pick berries, eat berries...</description>
+      <pubDate>Tue, 10 Jul 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_006.mp3" length="50665002" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/6</link>
+      <guid>http://relay.fm/playingforfun/6</guid>
+      <itunes:title>Don't Starve</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Pick grass, pick berries, gather sticks, avoid spider, eat berries, gather flint, craft ax, chop wood, pick carrot, eat carrot, craft torch, keep away darkness, wait until morning, locate the beefalo, pick berries, eat berries...</itunes:subtitle>
+      <itunes:summary>Pick grass, pick berries, gather sticks, avoid spider, eat berries, gather flint, craft ax, chop wood, pick carrot, eat carrot, craft torch, keep away darkness, wait until morning, locate the beefalo, pick berries, eat berries...</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3117</itunes:duration>
+      <content:encoded>&lt;p&gt;Pick grass, pick berries, gather sticks, avoid spider, eat berries, gather flint, craft ax, chop wood, BEES! Pick carrot, eat carrot, craft torch, keep away darkness, wait until morning, locate the beefalo, pick berries, eat berries...&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.mackweldon.com"&gt;Mack Weldon&lt;/a&gt;: Smart underwear for smart guys. Get 20% off your first order with the code PLAYINGFORFUN.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;h5&gt;&lt;a href="https://www.klei.com/games/dont-starve" target="_blank"&gt;Don't Starve | Klei Entertainment&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.klei.com/games/dont-starve-together" target="_blank"&gt;Don't Starve Together | Klei Entertainment&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/playlist?list=PLPWKrpEySGul-LOeNMI46t7urnXeQ0hnu" target="_blank"&gt;'Don't Starve Together' Stream Playlist- YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://dontstarve.wikia.com/wiki/Characters" target="_blank"&gt;Characters | Don't Starve game Wiki&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/ReliableSparklyWasabiCoolStoryBro" target="_blank"&gt;Tiff Burns Down the Forest - Twitch Clip&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://steamcommunity.com/app/219740" target="_blank"&gt;Steam Community : Don't Starve&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 5: Firewatch</title>
+      <description>“Hey Delilah” 
+“Yes Henry” 
+“There’s a beautiful meadow down here”
+“Yeah, isn’t it peaceful”</description>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_005.mp3" length="53236045" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/5</link>
+      <guid>http://relay.fm/playingforfun/5</guid>
+      <itunes:title>Firewatch</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>“Hey Delilah” 
+“Yes Henry” 
+“There’s a beautiful meadow down here”
+“Yeah, isn’t it peaceful”</itunes:subtitle>
+      <itunes:summary>“Hey Delilah” 
+“Yes Henry” 
+“There’s a beautiful meadow down here”
+“Yeah, isn’t it peaceful”</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3321</itunes:duration>
+      <content:encoded>&lt;p&gt;“Hey Delilah” &lt;br&gt;
+“Yes Henry” &lt;br&gt;
+“There’s a beautiful meadow down here”&lt;br&gt;
+“Yeah, isn’t it peaceful”&lt;/p&gt;
+ &lt;h4&gt;This episode of Playing for Fun is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+&lt;li&gt;&lt;a href="http://casper.com/playingforfun"&gt;Casper&lt;/a&gt;: The Internet’s favourite mattress. Get $50 off select mattresses with the code ‘PLAYINGFORFUN’.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;🙏👾&lt;a href="https://twitch.tv/playingforfunfm/"&gt;Follow us on Twitch&lt;/a&gt;&lt;br&gt;
+🙏📺&lt;a href="https://www.youtube.com/playingforfunfm"&gt;Subscribe to our YouTube Channel&lt;/a&gt;&lt;br&gt;
+🙏📷&lt;a href="https://www.instagram.com/playingforfunfm"&gt;Follow us on Instagram&lt;/a&gt;&lt;br&gt;
+🙏🐦&lt;a href="https://twitter.com/playingforfunfm/"&gt;Follow us on Twitter&lt;/a&gt;&lt;/p&gt;
+ &lt;h5&gt;&lt;a href="http://www.firewatchgame.com/" target="_blank"&gt;Campo Santo - Firewatch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.theincomparable.com/theincomparable/290/" target="_blank"&gt;Tiff's original review of Firewatch on The Incomparable&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/remaster/5" target="_blank"&gt;Myke's original review of Firewatch on Remaster&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=SRI_CifUdNI" target="_blank"&gt;Our Firewatch Stream&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://xoxofest.com/2015/projects/firewatch" target="_blank"&gt;Firewatch • XOXO Festival 2015&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.twitch.tv/events/oCeNJLCsSMO8qvSFzQ-HXQ" target="_blank"&gt;'Don't Starve Together' on June 15th at 5pm Eastern - Playing for Fun - Twitch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/CrazyLazyBulgogiBrainSlug" target="_blank"&gt;Turt Reynolds and the Scary Cut-out - Twitch Clip&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/SquareBlitheStarDxCat" target="_blank"&gt;Loud Music - Twitch Clip&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/TenuousBoldWrenMingLee" target="_blank"&gt;Boomboxin' - Twitch Clip&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://firewatch.camera/BreezyMaxfieldCrescent/" target="_blank"&gt;Our Firewatch Camera Roll&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 4: Portal 2 Co-Op</title>
+      <description>"Today, you will be testing with a partner. Please wave to your partner." 
+
+Blue portal, purple portal, push the button, orange portal, red portal, fly through the air, grab the cube, blue portal, purple portal, put cube on button, door opens, high-five...
+
+We’re Partners in Science!</description>
+      <pubDate>Wed, 02 May 2018 16:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/Playing_for_Fun_004.mp3" length="56494489" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/4</link>
+      <guid>http://relay.fm/playingforfun/4</guid>
+      <itunes:title>Portal 2 Co-Op</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>"Today, you will be testing with a partner. Please wave to your partner." 
+
+Blue portal, purple portal, push button, orange portal, red portal, fly through the air, grab the cube, put cube on button, door opens, high-five. 
+
+We’re Partners in Science!</itunes:subtitle>
+      <itunes:summary>"Today, you will be testing with a partner. Please wave to your partner." 
+
+Blue portal, purple portal, push button, orange portal, red portal, fly through the air, grab the cube, put cube on button, door opens, high-five. 
+
+We’re Partners in Science!</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3518</itunes:duration>
+      <content:encoded>&lt;p&gt;&amp;quot;Today, you will be testing with a partner. Please wave to your partner.&amp;quot; &lt;/p&gt;
+
+&lt;p&gt;Blue portal, purple portal, push the button, orange portal, red portal, fly through the air, grab the cube, blue portal, purple portal, put cube on button, door opens, high-five...&lt;/p&gt;
+
+&lt;p&gt;We’re Partners in Science!&lt;/p&gt;
+ &lt;h4&gt;Links and Show Notes&lt;/h4&gt;  &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Portal_(video_game)" target="_blank"&gt;Portal - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Orange_Box" target="_blank"&gt;The Orange Box - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Portal_2" target="_blank"&gt;Portal 2 - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/CallousInterestingHyenaDancingBaby" target="_blank"&gt;Boostin' Clip - Twitch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.twitch.tv/playingforfunfm" target="_blank"&gt;🙏👾Follow us on Twitch &lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/channel/UCI8F_DUylcw1r91K7VBwMTQ?app=desktop" target="_blank"&gt;🙏📺Subscribe to our YouTube Channel &lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/playingforfunfm/" target="_blank"&gt;🙏📷Follow us on Instagram &lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/playingforfunfm" target="_blank"&gt;🙏🐦Follow us on Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Ellen_McLain" target="_blank"&gt;Ellen McLain - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://kotaku.com/5790275/where-does-portal-2s-co-op-campaign-fit-into-the-half-life-universe" target="_blank"&gt;Where Does Portal 2's Co-Op Campaign Fit Into the Half-Life Universe? - Kotaku&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/ConsiderateEnjoyableWerewolfThisIsSparta" target="_blank"&gt;Myke's Favourite Moment from the Twitch Stream&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://clips.twitch.tv/CulturedBitterPepperNerfRedBlaster" target="_blank"&gt;Tiff's Favourite Moment from the Twitch Stream&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 3: Threes and Flipflop Solitaire</title>
+      <description>Swipe, swipe, swipe, tap, tap, tap, up and right, up and down.</description>
+      <pubDate>Thu, 05 Apr 2018 18:45:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_003.mp3" length="31425669" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/3</link>
+      <guid>http://relay.fm/playingforfun/3</guid>
+      <itunes:title>Threes and Flipflop Solitaire</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Swipe, swipe, swipe, tap, tap, tap, up and right, up and down.</itunes:subtitle>
+      <itunes:summary>Swipe, swipe, swipe, tap, tap, tap, up and right, up and down.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>1957</itunes:duration>
+      <content:encoded>&lt;p&gt;Swipe, swipe, swipe, tap, tap, tap, up and right, up and down.&lt;/p&gt;
+ &lt;h4&gt;Links and Show Notes&lt;/h4&gt;  &lt;h5&gt;&lt;a href="http://asherv.com/threes/" target="_blank"&gt;Threes&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.flipflopsolitaire.com/" target="_blank"&gt;Flipflop Solitaire&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/threesporn" target="_blank"&gt;ThreesPorn (@ThreesPorn) | Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Spider_(solitaire)" target="_blank"&gt;Spider (solitaire) - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Microsoft_Solitaire" target="_blank"&gt;Microsoft Solitaire - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://itunes.apple.com/gb/app/card-shark-solitaire/id293405659?mt=8" target="_blank"&gt;Card Shark Solitaire&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/playingforfunfm" target="_blank"&gt;Playing for Fun (@playingforfunfm) | Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.twitch.tv/playingforfunfm" target="_blank"&gt;PlayingForFunFM - Twitch&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 2: Celeste</title>
+      <description>Jump, air-dash, restart. Jump, air-dash, climb, restart. Jump, restart. Jump, air-dash, climb, jump, success!</description>
+      <pubDate>Tue, 06 Mar 2018 20:45:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF_002.mp3" length="39807567" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/2</link>
+      <guid>http://relay.fm/playingforfun/2</guid>
+      <itunes:title>Celeste</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Jump, air-dash, restart. Jump, air-dash, climb, restart. Jump, restart. Jump, air-dash, climb, jump, success!</itunes:subtitle>
+      <itunes:summary>Jump, air-dash, restart. Jump, air-dash, climb, restart. Jump, restart. Jump, air-dash, climb, jump, success!</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>2481</itunes:duration>
+      <content:encoded>&lt;p&gt;Jump, air-dash, restart. Jump, air-dash, climb, restart. Jump, restart. Jump, air-dash, climb, jump, success!&lt;/p&gt;
+ &lt;h4&gt;Links and Show Notes&lt;/h4&gt;  &lt;h5&gt;&lt;a href="http://www.celestegame.com/" target="_blank"&gt;Celeste&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.giantbomb.com/masocore/3015-1165/" target="_blank"&gt;Masocore (Concept) - Giant Bomb&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://supermeatboy.com/" target="_blank"&gt;Super Meat Boy Forever&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.towerfall-game.com/" target="_blank"&gt;TowerFall&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://d.pr/i/45iP4F" target="_blank"&gt;Tiff's Story Completion Screen&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://d.pr/i/TGKoGg" target="_blank"&gt;Myke's Story Completion Screen&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://d.pr/i/r5rgLv" target="_blank"&gt;Tiff's Stats Screen&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://d.pr/i/mCroIj" target="_blank"&gt;Myke's Stats Screen&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/theounderstars/" target="_blank"&gt;Theo (@theounderstars) • Instagram&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/imyke/status/969600350150733824" target="_blank"&gt;Myke's Best Run&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+    <item>
+      <title>Playing for Fun 1: Super Mario Odyssey</title>
+      <description>Let’s toss our hats and stomp, climb, stack, and poke our way through this epic Mario adventure. Plus stickers! We get all the stickers!</description>
+      <pubDate>Thu, 15 Feb 2018 14:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/playingforfun/PFF-001.mp3" length="39393646" type="audio/mp3"/>
+      <link>http://relay.fm/playingforfun/1</link>
+      <guid>http://relay.fm/playingforfun/1</guid>
+      <itunes:title>Super Mario Odyssey</itunes:title>
+      <itunes:author>Myke Hurley and Tiffany Arment</itunes:author>
+      <itunes:subtitle>Let’s toss our hats and stomp, climb, stack, and poke our way through this epic Mario adventure. Plus stickers! We get all the stickers!</itunes:subtitle>
+      <itunes:summary>Let’s toss our hats and stomp, climb, stack, and poke our way through this epic Mario adventure. Plus stickers! We get all the stickers!</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>2455</itunes:duration>
+      <content:encoded>&lt;p&gt;Let’s toss our hats and stomp, climb, stack, and poke our way through this epic Mario adventure. Plus stickers! We get all the stickers!&lt;/p&gt;
+ &lt;h4&gt;Links and Show Notes&lt;/h4&gt;  &lt;h5&gt;&lt;a href="https://www.nintendo.com/games/detail/super-mario-odyssey-switch" target="_blank"&gt;Super Mario Odyssey - Nintendo Switch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.redbubble.com/people/floatingdisc/collections/791848-super-mario-odyssey " target="_blank"&gt;Super Mario Odyssey Stickers - Red Bubble&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.nintendo.com/games/detail/celeste-switch" target="_blank"&gt;Celeste - Nintendo Switch&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/43/playingforfun_artwork.png"/>
+    </item>
+  </channel>
+</rss>
