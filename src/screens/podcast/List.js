@@ -9,13 +9,13 @@ const PodcastList = (props) => {
     // Track if the podcast has been loaded
     const [loaded, setLoaded] = useState(false);
 
-    useEffect(() => { loadFeed() });
+    useEffect(() => { loadPodcastList() });
 
     /**
      * If the feed hasn't been loaded go out and load it.  Set the podcast
      * state and loaded to true.
      */
-    async function loadFeed() {
+    async function loadPodcastList() {
         if (!loaded) {
             axios.get("/podcasts.json")
                 .then(function (result) {

@@ -16,7 +16,7 @@ const Podcast = (props) => {
     // Track if the podcast has been loaded
     const [loaded, setLoaded] = useState(false);
 
-    useEffect(() => { loadFeed('/feed.xml') });
+    useEffect(() => { loadFeed(props.feed + '.xml') });
 
     /**
      * If the feed hasn't been loaded go out and load it.  Set the podcast
@@ -24,9 +24,6 @@ const Podcast = (props) => {
      */
     async function loadFeed(feedFile) {
         if (!loaded) {
-            if (props && props.feed) {
-                feedFile = props.feed + '.xml';
-            }
             axios.get(feedFile)
                 .then(function (result) {
 

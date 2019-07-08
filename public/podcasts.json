@@ -1,10 +1,12 @@
 {
     "podcasts": [
         {
+            "feed": "funny-podcast.xml",
             "name": "funny-podcast",
             "title": "My Funny Podcast"
         },
         {
+            "feed": "tech-podcast.xml",
             "name": "tech-podcast",
             "title": "My Tech Podcast"
         }
