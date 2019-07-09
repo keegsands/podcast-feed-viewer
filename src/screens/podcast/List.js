@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import PodcastTile from '../../components/podcast/Tile'
 
-const PodcastList = (props) => {
+const PodcastList = () => {
 
     // Track the podcast object
     const [podcasts, setPodcasts] = useState([]);
@@ -25,10 +25,13 @@ const PodcastList = (props) => {
         }
     }
 
-    return <div><header><h2>Podcast Directory</h2></header>
+    return <div>
+        <header>
+            <h2>Podcast Directory</h2>
+        </header>
         <div className="podcast-tiles">
             {podcasts.map((value, index) => {
-                return <div key={index}><PodcastTile podcast={value} /></div>
+                return <PodcastTile key={index} title={value.title} href={value.name} />
             })}
         </div>
     </div>;
