@@ -1,4 +1,9 @@
-import convert from 'xml-js'
+import convert from 'xml-js';
+import createDOMPurify from 'dompurify';
+import { JSDOM } from 'jsdom';
+
+const window = (new JSDOM('')).window;
+const DOMPurify = createDOMPurify(window);
 
 export default function parsePodcastFeedFromXML(feedXML) {
 
@@ -64,11 +69,16 @@ function parseEpisode(rawEpisode) {
     if (!episode.descriptionText) {
         if ('_cdata' in rawEpisode.description) {
             episode.descriptionText = rawEpisode.description._cdata;
-        } else if('_text' in rawEpisode.description){
+        } else if ('_text' in rawEpisode.description) {
             episode.descriptionText = rawEpisode.description._text;
-        }else{
+        } else {
             episode.descriptionText = '';
         }
+    }
+
+    // If there is description text then it should be sanitized to prevent XSS issues
+    if (episode.descriptionText) {
+        episode.descriptionText = DOMPurify.sanitize(episode.descriptionText);
     }
     return episode;
 }
