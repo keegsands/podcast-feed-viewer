@@ -13,6 +13,9 @@ const PodcastDetail = (props) => {
     const [episodes, setEpisodes] = useState([])
     // Track if the podcast is loading
     const [loading, setLoading] = useState(false);
+    // Track if the podcast is loading
+    const [loaded, setLoaded] = useState(false);
+
 
     useEffect(() => {
         /**
@@ -20,24 +23,30 @@ const PodcastDetail = (props) => {
         * state and loading false when done.
         */
         async function loadFeed(feedFile) {
-            if (!loading) {
-                setLoading(true);
-                axios.get(feedFile)
-                    .then(function (result) {
-                        const podcast = parsePodcastFeedFromXML(result.data);
-                        setPodcast(podcast);
-                        setEpisodes(podcast.episodes);
-                        setLoading(false);
-                        if (podcast) {
-                            document.title = podcast.title;
-                        }
-                    })
-            }
+            // Set loading to true
+            setLoading(true);
+            axios.get(feedFile)
+                .then(function (result) {
+                    const podcast = parsePodcastFeedFromXML(result.data);
+                    setPodcast(podcast);
+                    setEpisodes(podcast.episodes);
+                    setLoaded(true);
+                    setLoading(false);
+                    if (podcast) {
+                        document.title = podcast.title;
+                    }
+                })
+
         }
 
-        loadFeed(props.match.params.id + '.xml');
+        // Only do this if it is not loaded and not loading
+        if (!loaded && !loading) {
+            setLoading(true);
+            loadFeed(props.match.params.id + '.xml');
+        }
 
-    }, []);
+
+    }, [props.match.params.id, loaded, loading]);
 
 
     /** 
