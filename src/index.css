@@ -1,0 +1,47 @@
+body {
+    font: 14px -apple-system, BlinkMacSystemFont, 'Avenir Next', 'HelveticaNeue-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  ol, ul {
+    padding-left: 30px;
+  }
+  .status {
+    margin-bottom: 10px;
+  }
+  header{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+  }
+
+  .podcast-tiles{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+  }
+  
+  .podcast-icon{
+    border:1px solid #021a40;
+  }
+
+  .flip-button{
+    margin-left: 25px;
+  }
+
+
+  .link-button {
+    color: #0000EE;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
+
+  .summary-link{
+    font-size: 11pt;
+  }
+  
